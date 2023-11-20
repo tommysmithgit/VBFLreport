@@ -1,0 +1,936 @@
+Malicious nodes vs total devices set to 3/20 = 15.00%
+1 GPUs are available to use!
+Extracting data/MNIST/train-images-idx3-ubyte.gz
+Extracting data/MNIST/train-labels-idx1-ubyte.gz
+Extracting data/MNIST/t10k-images-idx3-ubyte.gz
+Extracting data/MNIST/t10k-labels-idx1-ubyte.gz
+Sharding dataset to device_1 done.
+Sharding dataset to device_2 done.
+Sharding dataset to device_3 done.
+Sharding dataset to device_4 done.
+Sharding dataset to device_5 done.
+Sharding dataset to device_6 done.
+Sharding dataset to device_7 done.
+Sharding dataset to device_8 done.
+Sharding dataset to device_9 done.
+Sharding dataset to device_10 done.
+Sharding dataset to device_11 done.
+Sharding dataset to device_12 done.
+Sharding dataset to device_13 done.
+Sharding dataset to device_14 done.
+Sharding dataset to device_15 done.
+Sharding dataset to device_16 done.
+Sharding dataset to device_17 done.
+Sharding dataset to device_18 done.
+Sharding dataset to device_19 done.
+Sharding dataset to device_20 done.
+Sharding dataset done!
+
+Communication round 1
+device_12 worker online - chain length 0
+device_19 miner online - chain length 0
+device_6 validator online - chain length 0
+device_5 miner online - chain length 0
+device_1 worker online - chain length 0
+device_20 worker online - chain length 0
+device_11 validator online - chain length 0
+device_13 miner online - chain length 0
+device_10 validator online - chain length 0
+device_8 worker online - chain length 0
+device_7 validator online - chain length 0
+device_4 worker online - chain length 0
+device_2 miner online - chain length 0
+device_9 validator online - chain length 0
+device_3 miner online - chain length 0
+device_17 validator online - chain length 0
+device_14 worker online - chain length 0
+device_15 miner online - chain length 0
+device_16 worker online - chain length 0
+device_18 miner online - chain length 0
+
+There are 7 workers, 7 miners and 6 validators in this round.
+
+workers this round are
+d_12 online - True with chain len 0
+d_1 online - True with chain len 0
+d_20 online - True with chain len 0
+d_8 online - True with chain len 0
+d_4 online - True with chain len 0
+d_14 online - True with chain len 0
+d_16 online - True with chain len 0
+
+miners this round are
+d_19 online - True with chain len 0
+d_5 online - True with chain len 0
+d_13 online - True with chain len 0
+d_2 online - True with chain len 0
+d_3 online - True with chain len 0
+d_15 online - True with chain len 0
+d_18 online - True with chain len 0
+
+validators this round are
+d_6 online - True with chain len 0
+d_11 online - True with chain len 0
+d_10 online - True with chain len 0
+d_7 online - True with chain len 0
+d_9 online - True with chain len 0
+d_17 online - True with chain len 0
+
++++++++++ Round 1 Beginning Peer Lists +++++++++
+d_1 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_6 - v, d_12 - w, d_3 - m, 
+d_2 - m has peer list d_17 - v, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_3 - m has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, 
+d_4 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_5 - m has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_6 - v has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_12 - w, d_3 - m, 
+d_7 - v has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_8 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_9 - v has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_10 - v has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_11 - v has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_12 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_3 - m, 
+d_13 - m has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_14 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_15 - m has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_16 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_17 - v has peer list d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_18 - m has peer list d_17 - v, d_2 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_19 - m has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_13 - m, d_20 - w, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
+d_20 - w has peer list d_17 - v, d_2 - m, d_18 - m, d_16 - w, d_8 - w, d_7 - v, d_14 - w, d_4 - w, d_11 - v, d_19 - m, d_13 - m, d_5 - m, d_10 - v, d_15 - m, d_9 - v, d_1 - w, d_6 - v, d_12 - w, d_3 - m, 
++++++++++ Round 1 Beginning Peer Lists +++++++++
+ Step 1 - workers assign associated miner and validator (and do local updates, but it is implemented in code block of step 2) 
+
+device_16 - worker 1/7 will associate with a validator and a miner, if online...
+worker device_16 associated with miner device_19
+worker device_16 associated with validator device_10
+device_1 - worker 2/7 will associate with a validator and a miner, if online...
+worker device_1 associated with miner device_19
+worker device_1 associated with validator device_7
+device_4 - worker 3/7 will associate with a validator and a miner, if online...
+worker device_4 associated with miner device_5
+worker device_4 associated with validator device_17
+device_12 - worker 4/7 will associate with a validator and a miner, if online...
+worker device_12 associated with miner device_2
+worker device_12 associated with validator device_7
+device_20 - worker 5/7 will associate with a validator and a miner, if online...
+worker device_20 associated with miner device_15
+worker device_20 associated with validator device_6
+device_14 - worker 6/7 will associate with a validator and a miner, if online...
+worker device_14 associated with miner device_5
+worker device_14 associated with validator device_6
+device_8 - worker 7/7 will associate with a validator and a miner, if online...
+worker device_8 associated with miner device_2
+worker device_8 associated with validator device_6
+ Step 2 - validators accept local updates and broadcast to other validators in their respective peer lists (workers local_updates() are called in this step.
+
+validator device_17 associated with miner device_15
+device_17 - validator 1/6 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_17 is doing local updates
+Worker device_4 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_17 has accepted this transaction.
+validator device_17 is broadcasting received validator transactions to validator device_7.
+validator device_7 has accepted worker transactions from validator device_17
+validator device_17 has broadcasted 1 worker transactions to validator device_7.
+validator device_17 is broadcasting received validator transactions to validator device_11.
+validator device_11 has accepted worker transactions from validator device_17
+validator device_17 has broadcasted 1 worker transactions to validator device_11.
+validator device_17 is broadcasting received validator transactions to validator device_10.
+validator device_10 has accepted worker transactions from validator device_17
+validator device_17 has broadcasted 1 worker transactions to validator device_10.
+validator device_17 is broadcasting received validator transactions to validator device_9.
+validator device_9 has accepted worker transactions from validator device_17
+validator device_17 has broadcasted 1 worker transactions to validator device_9.
+validator device_17 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_17
+validator device_17 has broadcasted 1 worker transactions to validator device_6.
+validator device_9 associated with miner device_3
+No workers are associated with validator device_9 2/6 for this communication round.
+validator device_10 associated with miner device_3
+device_10 - validator 3/6 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_10 is doing local updates
+Worker device_16 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_10 has accepted this transaction.
+validator device_10 is broadcasting received validator transactions to validator device_17.
+validator device_17 has accepted worker transactions from validator device_10
+validator device_10 has broadcasted 1 worker transactions to validator device_17.
+validator device_10 is broadcasting received validator transactions to validator device_7.
+validator device_7 has accepted worker transactions from validator device_10
+validator device_10 has broadcasted 1 worker transactions to validator device_7.
+validator device_10 is broadcasting received validator transactions to validator device_11.
+validator device_11 has accepted worker transactions from validator device_10
+validator device_10 has broadcasted 1 worker transactions to validator device_11.
+validator device_10 is broadcasting received validator transactions to validator device_9.
+validator device_9 has accepted worker transactions from validator device_10
+validator device_10 has broadcasted 1 worker transactions to validator device_9.
+validator device_10 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_10
+validator device_10 has broadcasted 1 worker transactions to validator device_6.
+validator device_11 associated with miner device_13
+No workers are associated with validator device_11 4/6 for this communication round.
+validator device_7 associated with miner device_13
+device_7 - validator 5/6 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_7 is doing local updates
+Worker device_12 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_7 has accepted this transaction.
+worker 2/2 of validator device_7 is doing local updates
+Worker device_1 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_1 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_7 has accepted this transaction.
+validator device_7 is broadcasting received validator transactions to validator device_17.
+validator device_17 has accepted worker transactions from validator device_7
+validator device_7 has broadcasted 2 worker transactions to validator device_17.
+validator device_7 is broadcasting received validator transactions to validator device_11.
+validator device_11 has accepted worker transactions from validator device_7
+validator device_7 has broadcasted 2 worker transactions to validator device_11.
+validator device_7 is broadcasting received validator transactions to validator device_10.
+validator device_10 has accepted worker transactions from validator device_7
+validator device_7 has broadcasted 2 worker transactions to validator device_10.
+validator device_7 is broadcasting received validator transactions to validator device_9.
+validator device_9 has accepted worker transactions from validator device_7
+validator device_7 has broadcasted 2 worker transactions to validator device_9.
+validator device_7 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_7
+validator device_7 has broadcasted 2 worker transactions to validator device_6.
+validator device_6 associated with miner device_2
+device_6 - validator 6/6 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/3 of validator device_6 is doing local updates
+Worker device_8 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_6 has accepted this transaction.
+worker 2/3 of validator device_6 is doing local updates
+Worker device_14 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_6 has accepted this transaction.
+worker 3/3 of validator device_6 is doing local updates
+Worker device_20 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_20 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_6 has accepted this transaction.
+validator device_6 is broadcasting received validator transactions to validator device_17.
+validator device_17 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 3 worker transactions to validator device_17.
+validator device_6 is broadcasting received validator transactions to validator device_7.
+validator device_7 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 3 worker transactions to validator device_7.
+validator device_6 is broadcasting received validator transactions to validator device_11.
+validator device_11 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 3 worker transactions to validator device_11.
+validator device_6 is broadcasting received validator transactions to validator device_10.
+validator device_10 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 3 worker transactions to validator device_10.
+validator device_6 is broadcasting received validator transactions to validator device_9.
+validator device_9 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 3 worker transactions to validator device_9.
+ Step 2.5 - with the broadcasted workers transactions, validators decide the final transaction arrival order 
+
+device_17 - validator 1/6 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_17 - validator 1/6 done calculating the ordered final transactions arrival order. Total 7 accepted transactions.
+device_9 - validator 2/6 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_9 - validator 2/6 done calculating the ordered final transactions arrival order. Total 7 accepted transactions.
+device_10 - validator 3/6 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_10 - validator 3/6 done calculating the ordered final transactions arrival order. Total 7 accepted transactions.
+device_11 - validator 4/6 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_11 - validator 4/6 done calculating the ordered final transactions arrival order. Total 7 accepted transactions.
+device_7 - validator 5/6 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_7 - validator 5/6 done calculating the ordered final transactions arrival order. Total 7 accepted transactions.
+device_6 - validator 6/6 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_6 - validator 6/6 done calculating the ordered final transactions arrival order. Total 7 accepted transactions.
+ Step 3 - validators do self and cross-validation(validate local updates from workers) by the order of transaction arrival time.
+
+validator device_17 is performing one epoch of local update and validation
+validator device_17 locally updated model has accuracy 0.4078999161720276 on its local test set
+device_17 - validator 1/6 is validating received worker transactions...
+Signature of transaction from worker device_16 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.7251999974250793
+worker device_16's' updates is deemed as GOOD by validator device_17
+A validation process has been done for the transaction from worker device_16 by validator device_17
+Signature of transaction from worker device_12 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.7059999704360962
+worker device_12's' updates is deemed as GOOD by validator device_17
+A validation process has been done for the transaction from worker device_12 by validator device_17
+Signature of transaction from worker device_14 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.7213000059127808
+worker device_14's' updates is deemed as GOOD by validator device_17
+A validation process has been done for the transaction from worker device_14 by validator device_17
+Signature of transaction from worker device_20 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.17389994859695435
+NOTE: worker device_20's updates is deemed as suspiciously malicious by validator device_17
+A validation process has been done for the transaction from worker device_20 by validator device_17
+Signature of transaction from worker device_1 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.0731000006198883
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_17
+A validation process has been done for the transaction from worker device_1 by validator device_17
+Signature of transaction from worker device_8 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.7305998802185059
+worker device_8's' updates is deemed as GOOD by validator device_17
+A validation process has been done for the transaction from worker device_8 by validator device_17
+Signature of transaction from worker device_4 is verified by validator device_17!
+validator updated model accuracy - 0.4078999161720276
+After applying worker's update, model accuracy becomes - 0.7328999638557434
+worker device_4's' updates is deemed as GOOD by validator device_17
+A validation process has been done for the transaction from worker device_4 by validator device_17
+validator device_9 is performing one epoch of local update and validation
+validator device_9 locally updated model has accuracy 0.39809995889663696 on its local test set
+device_9 - validator 2/6 is validating received worker transactions...
+Signature of transaction from worker device_16 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.7251999974250793
+worker device_16's' updates is deemed as GOOD by validator device_9
+A validation process has been done for the transaction from worker device_16 by validator device_9
+Signature of transaction from worker device_12 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.7059999704360962
+worker device_12's' updates is deemed as GOOD by validator device_9
+A validation process has been done for the transaction from worker device_12 by validator device_9
+Signature of transaction from worker device_14 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.7213000059127808
+worker device_14's' updates is deemed as GOOD by validator device_9
+A validation process has been done for the transaction from worker device_14 by validator device_9
+Signature of transaction from worker device_20 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.17389994859695435
+NOTE: worker device_20's updates is deemed as suspiciously malicious by validator device_9
+A validation process has been done for the transaction from worker device_20 by validator device_9
+Signature of transaction from worker device_1 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.0731000006198883
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_9
+A validation process has been done for the transaction from worker device_1 by validator device_9
+Signature of transaction from worker device_8 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.7305998802185059
+worker device_8's' updates is deemed as GOOD by validator device_9
+A validation process has been done for the transaction from worker device_8 by validator device_9
+Signature of transaction from worker device_4 is verified by validator device_9!
+validator updated model accuracy - 0.39809995889663696
+After applying worker's update, model accuracy becomes - 0.7328999638557434
+worker device_4's' updates is deemed as GOOD by validator device_9
+A validation process has been done for the transaction from worker device_4 by validator device_9
+validator device_10 is performing one epoch of local update and validation
+validator device_10 locally updated model has accuracy 0.40579989552497864 on its local test set
+device_10 - validator 3/6 is validating received worker transactions...
+Signature of transaction from worker device_16 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.7251999974250793
+worker device_16's' updates is deemed as GOOD by validator device_10
+A validation process has been done for the transaction from worker device_16 by validator device_10
+Signature of transaction from worker device_12 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.7059999704360962
+worker device_12's' updates is deemed as GOOD by validator device_10
+A validation process has been done for the transaction from worker device_12 by validator device_10
+Signature of transaction from worker device_14 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.7213000059127808
+worker device_14's' updates is deemed as GOOD by validator device_10
+A validation process has been done for the transaction from worker device_14 by validator device_10
+Signature of transaction from worker device_20 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.17389994859695435
+NOTE: worker device_20's updates is deemed as suspiciously malicious by validator device_10
+A validation process has been done for the transaction from worker device_20 by validator device_10
+Signature of transaction from worker device_1 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.0731000006198883
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_10
+A validation process has been done for the transaction from worker device_1 by validator device_10
+Signature of transaction from worker device_8 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.7305998802185059
+worker device_8's' updates is deemed as GOOD by validator device_10
+A validation process has been done for the transaction from worker device_8 by validator device_10
+Signature of transaction from worker device_4 is verified by validator device_10!
+validator updated model accuracy - 0.40579989552497864
+After applying worker's update, model accuracy becomes - 0.7328999638557434
+worker device_4's' updates is deemed as GOOD by validator device_10
+A validation process has been done for the transaction from worker device_4 by validator device_10
+validator device_11 is performing one epoch of local update and validation
+validator device_11 locally updated model has accuracy 0.32210007309913635 on its local test set
+device_11 - validator 4/6 is validating received worker transactions...
+Signature of transaction from worker device_16 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.7251999974250793
+worker device_16's' updates is deemed as GOOD by validator device_11
+A validation process has been done for the transaction from worker device_16 by validator device_11
+Signature of transaction from worker device_12 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.7059999704360962
+worker device_12's' updates is deemed as GOOD by validator device_11
+A validation process has been done for the transaction from worker device_12 by validator device_11
+Signature of transaction from worker device_14 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.7213000059127808
+worker device_14's' updates is deemed as GOOD by validator device_11
+A validation process has been done for the transaction from worker device_14 by validator device_11
+Signature of transaction from worker device_20 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.17389994859695435
+NOTE: worker device_20's updates is deemed as suspiciously malicious by validator device_11
+A validation process has been done for the transaction from worker device_20 by validator device_11
+Signature of transaction from worker device_1 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.0731000006198883
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_11
+A validation process has been done for the transaction from worker device_1 by validator device_11
+Signature of transaction from worker device_8 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.7305998802185059
+worker device_8's' updates is deemed as GOOD by validator device_11
+A validation process has been done for the transaction from worker device_8 by validator device_11
+Signature of transaction from worker device_4 is verified by validator device_11!
+validator updated model accuracy - 0.32210007309913635
+After applying worker's update, model accuracy becomes - 0.7328999638557434
+worker device_4's' updates is deemed as GOOD by validator device_11
+A validation process has been done for the transaction from worker device_4 by validator device_11
+validator device_7 is performing one epoch of local update and validation
+validator device_7 locally updated model has accuracy 0.48129981756210327 on its local test set
+device_7 - validator 5/6 is validating received worker transactions...
+Signature of transaction from worker device_12 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.7059999704360962
+worker device_12's' updates is deemed as GOOD by validator device_7
+A validation process has been done for the transaction from worker device_12 by validator device_7
+Signature of transaction from worker device_16 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.7251999974250793
+worker device_16's' updates is deemed as GOOD by validator device_7
+A validation process has been done for the transaction from worker device_16 by validator device_7
+Signature of transaction from worker device_1 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.0731000006198883
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_7
+A validation process has been done for the transaction from worker device_1 by validator device_7
+Signature of transaction from worker device_14 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.7213000059127808
+worker device_14's' updates is deemed as GOOD by validator device_7
+A validation process has been done for the transaction from worker device_14 by validator device_7
+Signature of transaction from worker device_20 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.17389994859695435
+NOTE: worker device_20's updates is deemed as suspiciously malicious by validator device_7
+A validation process has been done for the transaction from worker device_20 by validator device_7
+Signature of transaction from worker device_8 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.7305998802185059
+worker device_8's' updates is deemed as GOOD by validator device_7
+A validation process has been done for the transaction from worker device_8 by validator device_7
+Signature of transaction from worker device_4 is verified by validator device_7!
+validator updated model accuracy - 0.48129981756210327
+After applying worker's update, model accuracy becomes - 0.7328999638557434
+worker device_4's' updates is deemed as GOOD by validator device_7
+A validation process has been done for the transaction from worker device_4 by validator device_7
+validator device_6 is performing one epoch of local update and validation
+validator device_6 locally updated model has accuracy 0.46189993619918823 on its local test set
+device_6 - validator 6/6 is validating received worker transactions...
+Signature of transaction from worker device_14 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.7213000059127808
+worker device_14's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_14 by validator device_6
+Signature of transaction from worker device_20 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.17389994859695435
+NOTE: worker device_20's updates is deemed as suspiciously malicious by validator device_6
+A validation process has been done for the transaction from worker device_20 by validator device_6
+Signature of transaction from worker device_16 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.7251999974250793
+worker device_16's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_16 by validator device_6
+Signature of transaction from worker device_12 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.7059999704360962
+worker device_12's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_12 by validator device_6
+Signature of transaction from worker device_1 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.0731000006198883
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_6
+A validation process has been done for the transaction from worker device_1 by validator device_6
+Signature of transaction from worker device_8 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.7305998802185059
+worker device_8's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_8 by validator device_6
+Signature of transaction from worker device_4 is verified by validator device_6!
+validator updated model accuracy - 0.46189993619918823
+After applying worker's update, model accuracy becomes - 0.7328999638557434
+worker device_4's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_4 by validator device_6
+ Step 4 - validators send post validation transactions to associated miner and miner broadcasts these to other miners in their respecitve peer lists
+
+device_19 - miner 1/7 accepting validators' post-validation transactions...
+No validators are associated with miner device_19 for this communication round.
+device_13 - miner 2/7 accepting validators' post-validation transactions...
+device_11 - validator 1/2 of miner device_13 is sending signature verified transaction...
+miner device_13 has accepted 1/7 post-validation transaction from validator device_11
+miner device_13 has accepted 2/7 post-validation transaction from validator device_11
+miner device_13 has accepted 3/7 post-validation transaction from validator device_11
+miner device_13 has accepted 4/7 post-validation transaction from validator device_11
+miner device_13 has accepted 5/7 post-validation transaction from validator device_11
+miner device_13 has accepted 6/7 post-validation transaction from validator device_11
+miner device_13 has accepted 7/7 post-validation transaction from validator device_11
+device_7 - validator 2/2 of miner device_13 is sending signature verified transaction...
+miner device_13 has accepted 1/7 post-validation transaction from validator device_7
+miner device_13 has accepted 2/7 post-validation transaction from validator device_7
+miner device_13 has accepted 3/7 post-validation transaction from validator device_7
+miner device_13 has accepted 4/7 post-validation transaction from validator device_7
+miner device_13 has accepted 5/7 post-validation transaction from validator device_7
+miner device_13 has accepted 6/7 post-validation transaction from validator device_7
+miner device_13 has accepted 7/7 post-validation transaction from validator device_7
+miner device_13 is broadcasting received validator transactions to miner device_2.
+miner device_2 has accepted validator transactions from miner device_13
+miner device_13 has broadcasted 14 validator transactions to miner device_2.
+miner device_13 is broadcasting received validator transactions to miner device_18.
+miner device_18 has accepted validator transactions from miner device_13
+miner device_13 has broadcasted 14 validator transactions to miner device_18.
+miner device_13 is broadcasting received validator transactions to miner device_19.
+miner device_19 has accepted validator transactions from miner device_13
+miner device_13 has broadcasted 14 validator transactions to miner device_19.
+miner device_13 is broadcasting received validator transactions to miner device_5.
+miner device_5 has accepted validator transactions from miner device_13
+miner device_13 has broadcasted 14 validator transactions to miner device_5.
+miner device_13 is broadcasting received validator transactions to miner device_15.
+miner device_15 has accepted validator transactions from miner device_13
+miner device_13 has broadcasted 14 validator transactions to miner device_15.
+miner device_13 is broadcasting received validator transactions to miner device_3.
+miner device_3 has accepted validator transactions from miner device_13
+miner device_13 has broadcasted 14 validator transactions to miner device_3.
+device_5 - miner 3/7 accepting validators' post-validation transactions...
+No validators are associated with miner device_5 for this communication round.
+device_3 - miner 4/7 accepting validators' post-validation transactions...
+device_10 - validator 1/2 of miner device_3 is sending signature verified transaction...
+miner device_3 has accepted 1/7 post-validation transaction from validator device_10
+miner device_3 has accepted 2/7 post-validation transaction from validator device_10
+miner device_3 has accepted 3/7 post-validation transaction from validator device_10
+miner device_3 has accepted 4/7 post-validation transaction from validator device_10
+miner device_3 has accepted 5/7 post-validation transaction from validator device_10
+miner device_3 has accepted 6/7 post-validation transaction from validator device_10
+miner device_3 has accepted 7/7 post-validation transaction from validator device_10
+device_9 - validator 2/2 of miner device_3 is sending signature verified transaction...
+miner device_3 has accepted 1/7 post-validation transaction from validator device_9
+miner device_3 has accepted 2/7 post-validation transaction from validator device_9
+miner device_3 has accepted 3/7 post-validation transaction from validator device_9
+miner device_3 has accepted 4/7 post-validation transaction from validator device_9
+miner device_3 has accepted 5/7 post-validation transaction from validator device_9
+miner device_3 has accepted 6/7 post-validation transaction from validator device_9
+miner device_3 has accepted 7/7 post-validation transaction from validator device_9
+miner device_3 is broadcasting received validator transactions to miner device_2.
+miner device_2 has accepted validator transactions from miner device_3
+miner device_3 has broadcasted 14 validator transactions to miner device_2.
+miner device_3 is broadcasting received validator transactions to miner device_18.
+miner device_18 has accepted validator transactions from miner device_3
+miner device_3 has broadcasted 14 validator transactions to miner device_18.
+miner device_3 is broadcasting received validator transactions to miner device_19.
+miner device_19 has accepted validator transactions from miner device_3
+miner device_3 has broadcasted 14 validator transactions to miner device_19.
+miner device_3 is broadcasting received validator transactions to miner device_13.
+miner device_13 has accepted validator transactions from miner device_3
+miner device_3 has broadcasted 14 validator transactions to miner device_13.
+miner device_3 is broadcasting received validator transactions to miner device_5.
+miner device_5 has accepted validator transactions from miner device_3
+miner device_3 has broadcasted 14 validator transactions to miner device_5.
+miner device_3 is broadcasting received validator transactions to miner device_15.
+miner device_15 has accepted validator transactions from miner device_3
+miner device_3 has broadcasted 14 validator transactions to miner device_15.
+device_15 - miner 5/7 accepting validators' post-validation transactions...
+device_17 - validator 1/1 of miner device_15 is sending signature verified transaction...
+miner device_15 has accepted 1/7 post-validation transaction from validator device_17
+miner device_15 has accepted 2/7 post-validation transaction from validator device_17
+miner device_15 has accepted 3/7 post-validation transaction from validator device_17
+miner device_15 has accepted 4/7 post-validation transaction from validator device_17
+miner device_15 has accepted 5/7 post-validation transaction from validator device_17
+miner device_15 has accepted 6/7 post-validation transaction from validator device_17
+miner device_15 has accepted 7/7 post-validation transaction from validator device_17
+miner device_15 is broadcasting received validator transactions to miner device_2.
+miner device_2 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 7 validator transactions to miner device_2.
+miner device_15 is broadcasting received validator transactions to miner device_18.
+miner device_18 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 7 validator transactions to miner device_18.
+miner device_15 is broadcasting received validator transactions to miner device_19.
+miner device_19 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 7 validator transactions to miner device_19.
+miner device_15 is broadcasting received validator transactions to miner device_13.
+miner device_13 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 7 validator transactions to miner device_13.
+miner device_15 is broadcasting received validator transactions to miner device_5.
+miner device_5 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 7 validator transactions to miner device_5.
+miner device_15 is broadcasting received validator transactions to miner device_3.
+miner device_3 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 7 validator transactions to miner device_3.
+device_18 - miner 6/7 accepting validators' post-validation transactions...
+No validators are associated with miner device_18 for this communication round.
+device_2 - miner 7/7 accepting validators' post-validation transactions...
+device_6 - validator 1/1 of miner device_2 is sending signature verified transaction...
+miner device_2 has accepted 1/7 post-validation transaction from validator device_6
+miner device_2 has accepted 2/7 post-validation transaction from validator device_6
+miner device_2 has accepted 3/7 post-validation transaction from validator device_6
+miner device_2 has accepted 4/7 post-validation transaction from validator device_6
+miner device_2 has accepted 5/7 post-validation transaction from validator device_6
+miner device_2 has accepted 6/7 post-validation transaction from validator device_6
+miner device_2 has accepted 7/7 post-validation transaction from validator device_6
+miner device_2 is broadcasting received validator transactions to miner device_18.
+miner device_18 has accepted validator transactions from miner device_2
+miner device_2 has broadcasted 7 validator transactions to miner device_18.
+miner device_2 is broadcasting received validator transactions to miner device_19.
+miner device_19 has accepted validator transactions from miner device_2
+miner device_2 has broadcasted 7 validator transactions to miner device_19.
+miner device_2 is broadcasting received validator transactions to miner device_13.
+miner device_13 has accepted validator transactions from miner device_2
+miner device_2 has broadcasted 7 validator transactions to miner device_13.
+miner device_2 is broadcasting received validator transactions to miner device_5.
+miner device_5 has accepted validator transactions from miner device_2
+miner device_2 has broadcasted 7 validator transactions to miner device_5.
+miner device_2 is broadcasting received validator transactions to miner device_15.
+miner device_15 has accepted validator transactions from miner device_2
+miner device_2 has broadcasted 7 validator transactions to miner device_15.
+miner device_2 is broadcasting received validator transactions to miner device_3.
+miner device_3 has accepted validator transactions from miner device_2
+miner device_2 has broadcasted 7 validator transactions to miner device_3.
+ Step 4.5 - with the broadcasted validator transactions, miners decide the final transaction arrival order
+ 
+device_19 - miner 1/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_19 - miner 1/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+device_13 - miner 2/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_13 - miner 2/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+device_5 - miner 3/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_5 - miner 3/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+device_3 - miner 4/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_3 - miner 4/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+device_15 - miner 5/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_15 - miner 5/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+device_18 - miner 6/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_18 - miner 6/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+device_2 - miner 7/7 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_2 - miner 7/7 done calculating the ordered final transactions arrival order. Total 42 accepted transactions.
+ Step 5 - miners do self and cross-verification (verify validators' signature) by the order of transaction arrival time and record the transactions in the candidate block according to the limit size. Also mine and propagate the block.
+
+device_19 - miner 1/7 is verifying received validator transactions...
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+Signature of transaction from validator device_17 is verified by miner device_19!
+Signature of transaction from validator device_10 is verified by miner device_19!
+Signature of transaction from validator device_11 is verified by miner device_19!
+Signature of transaction from validator device_7 is verified by miner device_19!
+Signature of transaction from validator device_6 is verified by miner device_19!
+Signature of transaction from validator device_9 is verified by miner device_19!
+device_19 - miner 1/7 mining the block...
+device_19 - miner mines a block in 1.1332674026489258 seconds.
+miner device_19 is propagating its mined block to miner device_2.
+miner device_2 has accepted accepted a propagated block from miner device_19
+miner device_19 is propagating its mined block to miner device_18.
+miner device_18 has accepted accepted a propagated block from miner device_19
+miner device_19 is propagating its mined block to miner device_13.
+miner device_13 has accepted accepted a propagated block from miner device_19
+miner device_19 is propagating its mined block to miner device_5.
+miner device_5 has accepted accepted a propagated block from miner device_19
+miner device_19 is propagating its mined block to miner device_15.
+miner device_15 has accepted accepted a propagated block from miner device_19
+miner device_19 is propagating its mined block to miner device_3.
+miner device_3 has accepted accepted a propagated block from miner device_19
+device_13 - miner 2/7 is verifying received validator transactions...
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+Signature of transaction from validator device_11 is verified by miner device_13!
+Signature of transaction from validator device_7 is verified by miner device_13!
+Signature of transaction from validator device_17 is verified by miner device_13!
+Signature of transaction from validator device_10 is verified by miner device_13!
+Signature of transaction from validator device_6 is verified by miner device_13!
+Signature of transaction from validator device_9 is verified by miner device_13!
+device_13 - miner 2/7 mining the block...
+device_13 - miner mines a block in 0.7860808372497559 seconds.
+miner device_13 is propagating its mined block to miner device_2.
+miner device_2 has accepted accepted a propagated block from miner device_13
+miner device_13 is propagating its mined block to miner device_18.
+miner device_18 has accepted accepted a propagated block from miner device_13
+miner device_13 is propagating its mined block to miner device_19.
+miner device_19 has accepted accepted a propagated block from miner device_13
+miner device_13 is propagating its mined block to miner device_5.
+miner device_5 has accepted accepted a propagated block from miner device_13
+miner device_13 is propagating its mined block to miner device_15.
+miner device_15 has accepted accepted a propagated block from miner device_13
+miner device_13 is propagating its mined block to miner device_3.
+miner device_3 has accepted accepted a propagated block from miner device_13
+device_5 - miner 3/7 is verifying received validator transactions...
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+Signature of transaction from validator device_17 is verified by miner device_5!
+Signature of transaction from validator device_10 is verified by miner device_5!
+Signature of transaction from validator device_11 is verified by miner device_5!
+Signature of transaction from validator device_7 is verified by miner device_5!
+Signature of transaction from validator device_6 is verified by miner device_5!
+Signature of transaction from validator device_9 is verified by miner device_5!
+device_5 - miner 3/7 mining the block...
+device_5 - miner mines a block in 0.7813706398010254 seconds.
+miner device_5 is propagating its mined block to miner device_2.
+miner device_2 has accepted accepted a propagated block from miner device_5
+miner device_5 is propagating its mined block to miner device_18.
+miner device_18 has accepted accepted a propagated block from miner device_5
+miner device_5 is propagating its mined block to miner device_19.
+miner device_19 has accepted accepted a propagated block from miner device_5
+miner device_5 is propagating its mined block to miner device_13.
+miner device_13 has accepted accepted a propagated block from miner device_5
+miner device_5 is propagating its mined block to miner device_15.
+miner device_15 has accepted accepted a propagated block from miner device_5
+miner device_5 is propagating its mined block to miner device_3.
+miner device_3 has accepted accepted a propagated block from miner device_5
+device_3 - miner 4/7 is verifying received validator transactions...
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_10 is verified by miner device_3!
+Signature of transaction from validator device_9 is verified by miner device_3!
+Signature of transaction from validator device_17 is verified by miner device_3!
+Signature of transaction from validator device_11 is verified by miner device_3!
+Signature of transaction from validator device_7 is verified by miner device_3!
+Signature of transaction from validator device_6 is verified by miner device_3!
+device_3 - miner 4/7 mining the block...
+device_3 - miner mines a block in 0.7875826358795166 seconds.
+miner device_3 is propagating its mined block to miner device_2.
+miner device_2 has accepted accepted a propagated block from miner device_3
+miner device_3 is propagating its mined block to miner device_18.
+miner device_18 has accepted accepted a propagated block from miner device_3
+miner device_3 is propagating its mined block to miner device_19.
+miner device_19 has accepted accepted a propagated block from miner device_3
+miner device_3 is propagating its mined block to miner device_13.
+miner device_13 has accepted accepted a propagated block from miner device_3
+miner device_3 is propagating its mined block to miner device_5.
+miner device_5 has accepted accepted a propagated block from miner device_3
+miner device_3 is propagating its mined block to miner device_15.
+miner device_15 has accepted accepted a propagated block from miner device_3
+device_15 - miner 5/7 is verifying received validator transactions...
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+Signature of transaction from validator device_17 is verified by miner device_15!
+Signature of transaction from validator device_10 is verified by miner device_15!
+Signature of transaction from validator device_11 is verified by miner device_15!
+Signature of transaction from validator device_7 is verified by miner device_15!
+Signature of transaction from validator device_6 is verified by miner device_15!
+Signature of transaction from validator device_9 is verified by miner device_15!
+device_15 - miner 5/7 mining the block...
+device_15 - miner mines a block in 1.0836477279663086 seconds.
+miner device_15 is propagating its mined block to miner device_2.
+miner device_2 has accepted accepted a propagated block from miner device_15
+miner device_15 is propagating its mined block to miner device_18.
+miner device_18 has accepted accepted a propagated block from miner device_15
+miner device_15 is propagating its mined block to miner device_19.
+miner device_19 has accepted accepted a propagated block from miner device_15
+miner device_15 is propagating its mined block to miner device_13.
+miner device_13 has accepted accepted a propagated block from miner device_15
+miner device_15 is propagating its mined block to miner device_5.
+miner device_5 has accepted accepted a propagated block from miner device_15
+miner device_15 is propagating its mined block to miner device_3.
+miner device_3 has accepted accepted a propagated block from miner device_15
+device_18 - miner 6/7 is verifying received validator transactions...
+Signature of transaction from validator device_10 is verified by miner device_18!
+Signature of transaction from validator device_7 is verified by miner device_18!
+Signature of transaction from validator device_6 is verified by miner device_18!
+Signature of transaction from validator device_6 is verified by miner device_18!
+Signature of transaction from validator device_6 is verified by miner device_18!
+Signature of transaction from validator device_11 is verified by miner device_18!
+Signature of transaction from validator device_7 is verified by miner device_18!
+Signature of transaction from validator device_9 is verified by miner device_18!
+Signature of transaction from validator device_17 is verified by miner device_18!
+Signature of transaction from validator device_7 is verified by miner device_18!
+Signature of transaction from validator device_6 is verified by miner device_18!
+Signature of transaction from validator device_11 is verified by miner device_18!
+Signature of transaction from validator device_10 is verified by miner device_18!
+Signature of transaction from validator device_9 is verified by miner device_18!
+Signature of transaction from validator device_17 is verified by miner device_18!
+Signature of transaction from validator device_11 is verified by miner device_18!
+Signature of transaction from validator device_7 is verified by miner device_18!
+Signature of transaction from validator device_10 is verified by miner device_18!
+Signature of transaction from validator device_11 is verified by miner device_18!
+Signature of transaction from validator device_10 is verified by miner device_18!
+Signature of transaction from validator device_7 is verified by miner device_18!
+Signature of transaction from validator device_17 is verified by miner device_18!
+Signature of transaction from validator device_9 is verified by miner device_18!
+Signature of transaction from validator device_9 is verified by miner device_18!
+Signature of transaction from validator device_17 is verified by miner device_18!
+Signature of transaction from validator device_6 is verified by miner device_18!
+Signature of transaction from validator device_11 is verified by miner device_18!
+Signature of transaction from validator device_10 is verified by miner device_18!
+Signature of transaction from validator device_17 is verified by miner device_18!

@@ -1,0 +1,1675 @@
+Malicious nodes vs total devices set to 3/50 = 6.00%
+1 GPUs are available to use!
+Extracting data/MNIST/train-images-idx3-ubyte.gz
+Extracting data/MNIST/train-labels-idx1-ubyte.gz
+Extracting data/MNIST/t10k-images-idx3-ubyte.gz
+Extracting data/MNIST/t10k-labels-idx1-ubyte.gz
+Sharding dataset to device_1 done.
+Sharding dataset to device_2 done.
+Sharding dataset to device_3 done.
+Sharding dataset to device_4 done.
+Sharding dataset to device_5 done.
+Sharding dataset to device_6 done.
+Sharding dataset to device_7 done.
+Sharding dataset to device_8 done.
+Sharding dataset to device_9 done.
+Sharding dataset to device_10 done.
+Sharding dataset to device_11 done.
+Sharding dataset to device_12 done.
+Sharding dataset to device_13 done.
+Sharding dataset to device_14 done.
+Sharding dataset to device_15 done.
+Sharding dataset to device_16 done.
+Sharding dataset to device_17 done.
+Sharding dataset to device_18 done.
+Sharding dataset to device_19 done.
+Sharding dataset to device_20 done.
+Sharding dataset to device_21 done.
+Sharding dataset to device_22 done.
+Sharding dataset to device_23 done.
+Sharding dataset to device_24 done.
+Sharding dataset to device_25 done.
+Sharding dataset to device_26 done.
+Sharding dataset to device_27 done.
+Sharding dataset to device_28 done.
+Sharding dataset to device_29 done.
+Sharding dataset to device_30 done.
+Sharding dataset to device_31 done.
+Sharding dataset to device_32 done.
+Sharding dataset to device_33 done.
+Sharding dataset to device_34 done.
+Sharding dataset to device_35 done.
+Sharding dataset to device_36 done.
+Sharding dataset to device_37 done.
+Sharding dataset to device_38 done.
+Sharding dataset to device_39 done.
+Sharding dataset to device_40 done.
+Sharding dataset to device_41 done.
+Sharding dataset to device_42 done.
+Sharding dataset to device_43 done.
+Sharding dataset to device_44 done.
+Sharding dataset to device_45 done.
+Sharding dataset to device_46 done.
+Sharding dataset to device_47 done.
+Sharding dataset to device_48 done.
+Sharding dataset to device_49 done.
+Sharding dataset to device_50 done.
+Sharding dataset done!
+
+Communication round 1
+device_37 worker online - chain length 0
+device_21 miner online - chain length 0
+device_28 validator online - chain length 0
+device_10 miner online - chain length 0
+device_33 validator online - chain length 0
+device_31 validator online - chain length 0
+device_15 worker online - chain length 0
+device_25 validator online - chain length 0
+device_30 miner online - chain length 0
+device_22 miner online - chain length 0
+device_17 miner online - chain length 0
+device_5 worker online - chain length 0
+device_18 validator online - chain length 0
+device_8 worker online - chain length 0
+device_49 validator online - chain length 0
+device_35 miner online - chain length 0
+device_12 miner online - chain length 0
+device_2 miner online - chain length 0
+device_27 miner online - chain length 0
+device_16 worker online - chain length 0
+device_29 miner online - chain length 0
+device_32 validator online - chain length 0
+device_42 worker online - chain length 0
+device_48 validator online - chain length 0
+device_40 miner online - chain length 0
+device_43 worker online - chain length 0
+device_47 worker online - chain length 0
+device_19 validator online - chain length 0
+device_20 worker online - chain length 0
+device_36 validator online - chain length 0
+device_13 worker online - chain length 0
+device_34 worker online - chain length 0
+device_14 worker online - chain length 0
+device_4 validator online - chain length 0
+device_38 validator online - chain length 0
+device_11 worker online - chain length 0
+device_44 validator online - chain length 0
+device_41 miner online - chain length 0
+device_23 miner online - chain length 0
+device_46 worker online - chain length 0
+device_39 worker online - chain length 0
+device_6 validator online - chain length 0
+device_7 worker online - chain length 0
+device_26 worker online - chain length 0
+device_45 miner online - chain length 0
+device_3 validator online - chain length 0
+device_1 miner online - chain length 0
+device_50 validator online - chain length 0
+device_9 worker online - chain length 0
+device_24 validator online - chain length 0
+
+There are 18 workers, 15 miners and 17 validators in this round.
+
+workers this round are
+d_37 online - True with chain len 0
+d_15 online - True with chain len 0
+d_5 online - True with chain len 0
+d_8 online - True with chain len 0
+d_16 online - True with chain len 0
+d_42 online - True with chain len 0
+d_43 online - True with chain len 0
+d_47 online - True with chain len 0
+d_20 online - True with chain len 0
+d_13 online - True with chain len 0
+d_34 online - True with chain len 0
+d_14 online - True with chain len 0
+d_11 online - True with chain len 0
+d_46 online - True with chain len 0
+d_39 online - True with chain len 0
+d_7 online - True with chain len 0
+d_26 online - True with chain len 0
+d_9 online - True with chain len 0
+
+miners this round are
+d_21 online - True with chain len 0
+d_10 online - True with chain len 0
+d_30 online - True with chain len 0
+d_22 online - True with chain len 0
+d_17 online - True with chain len 0
+d_35 online - True with chain len 0
+d_12 online - True with chain len 0
+d_2 online - True with chain len 0
+d_27 online - True with chain len 0
+d_29 online - True with chain len 0
+d_40 online - True with chain len 0
+d_41 online - True with chain len 0
+d_23 online - True with chain len 0
+d_45 online - True with chain len 0
+d_1 online - True with chain len 0
+
+validators this round are
+d_28 online - True with chain len 0
+d_33 online - True with chain len 0
+d_31 online - True with chain len 0
+d_25 online - True with chain len 0
+d_18 online - True with chain len 0
+d_49 online - True with chain len 0
+d_32 online - True with chain len 0
+d_48 online - True with chain len 0
+d_19 online - True with chain len 0
+d_36 online - True with chain len 0
+d_4 online - True with chain len 0
+d_38 online - True with chain len 0
+d_44 online - True with chain len 0
+d_6 online - True with chain len 0
+d_3 online - True with chain len 0
+d_50 online - True with chain len 0
+d_24 online - True with chain len 0
+
++++++++++ Round 1 Beginning Peer Lists +++++++++
+d_1 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_2 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_3 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_4 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_5 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_6 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_7 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_11 - w, 
+d_8 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_9 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_10 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_11 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, 
+d_12 - m has peer list d_28 - v, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_13 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_14 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_15 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_16 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_17 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_18 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_19 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_20 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_21 - m has peer list d_28 - v, d_12 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_22 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_23 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_7 - w, d_11 - w, 
+d_24 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_25 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_26 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_27 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_28 - v has peer list d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_29 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_30 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_31 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_32 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_33 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_34 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_35 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_36 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_37 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_38 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_39 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_40 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_41 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_42 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_23 - m, d_7 - w, d_11 - w, 
+d_43 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_44 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_45 - m has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_46 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_47 - w has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_48 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_49 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_50 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
+d_50 - v has peer list d_28 - v, d_12 - m, d_21 - m, d_26 - w, d_27 - m, d_35 - m, d_43 - w, d_18 - v, d_39 - w, d_46 - w, d_15 - w, d_30 - m, d_6 - v, d_14 - w, d_2 - m, d_22 - m, d_44 - v, d_34 - w, d_5 - w, d_1 - m, d_4 - v, d_38 - v, d_16 - w, d_37 - w, d_20 - w, d_24 - v, d_45 - m, d_32 - v, d_31 - v, d_25 - v, d_41 - m, d_3 - v, d_33 - v, d_17 - m, d_9 - w, d_29 - m, d_36 - v, d_40 - m, d_8 - w, d_48 - v, d_13 - w, d_49 - v, d_19 - v, d_47 - w, d_10 - m, d_42 - w, d_23 - m, d_7 - w, d_11 - w, 
++++++++++ Round 1 Beginning Peer Lists +++++++++
+ Step 1 - workers assign associated miner and validator (and do local updates, but it is implemented in code block of step 2) 
+
+device_20 - worker 1/18 will associate with a validator and a miner, if online...
+worker device_20 associated with miner device_12
+worker device_20 associated with validator device_33
+device_43 - worker 2/18 will associate with a validator and a miner, if online...
+worker device_43 associated with miner device_21
+worker device_43 associated with validator device_33
+device_9 - worker 3/18 will associate with a validator and a miner, if online...
+worker device_9 associated with miner device_40
+worker device_9 associated with validator device_33
+device_11 - worker 4/18 will associate with a validator and a miner, if online...
+worker device_11 associated with miner device_29
+worker device_11 associated with validator device_38
+device_37 - worker 5/18 will associate with a validator and a miner, if online...
+worker device_37 associated with miner device_10
+worker device_37 associated with validator device_24
+device_7 - worker 6/18 will associate with a validator and a miner, if online...
+worker device_7 associated with miner device_35
+worker device_7 associated with validator device_48
+device_13 - worker 7/18 will associate with a validator and a miner, if online...
+worker device_13 associated with miner device_2
+worker device_13 associated with validator device_38
+device_5 - worker 8/18 will associate with a validator and a miner, if online...
+worker device_5 associated with miner device_17
+worker device_5 associated with validator device_19
+device_26 - worker 9/18 will associate with a validator and a miner, if online...
+worker device_26 associated with miner device_29
+worker device_26 associated with validator device_3
+device_39 - worker 10/18 will associate with a validator and a miner, if online...
+worker device_39 associated with miner device_2
+worker device_39 associated with validator device_31
+device_14 - worker 11/18 will associate with a validator and a miner, if online...
+worker device_14 associated with miner device_22
+worker device_14 associated with validator device_48
+device_8 - worker 12/18 will associate with a validator and a miner, if online...
+worker device_8 associated with miner device_17
+worker device_8 associated with validator device_6
+device_15 - worker 13/18 will associate with a validator and a miner, if online...
+worker device_15 associated with miner device_10
+worker device_15 associated with validator device_19
+device_47 - worker 14/18 will associate with a validator and a miner, if online...
+worker device_47 associated with miner device_41
+worker device_47 associated with validator device_44
+device_42 - worker 15/18 will associate with a validator and a miner, if online...
+worker device_42 associated with miner device_1
+worker device_42 associated with validator device_38
+device_16 - worker 16/18 will associate with a validator and a miner, if online...
+worker device_16 associated with miner device_29
+worker device_16 associated with validator device_4
+device_34 - worker 17/18 will associate with a validator and a miner, if online...
+worker device_34 associated with miner device_45
+worker device_34 associated with validator device_32
+device_46 - worker 18/18 will associate with a validator and a miner, if online...
+worker device_46 associated with miner device_45
+worker device_46 associated with validator device_6
+ Step 2 - validators accept local updates and broadcast to other validators in their respective peer lists (workers local_updates() are called in this step.
+
+validator device_25 associated with miner device_29
+No workers are associated with validator device_25 1/17 for this communication round.
+validator device_4 associated with miner device_41
+device_4 - validator 2/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_4 is doing local updates
+Worker device_16 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_4 has accepted this transaction.
+validator device_4 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_28.
+validator device_4 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_18.
+validator device_4 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_6.
+validator device_4 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_50.
+validator device_4 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_44.
+validator device_4 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_38.
+validator device_4 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_24.
+validator device_4 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_32.
+validator device_4 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_31.
+validator device_4 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_25.
+validator device_4 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_3.
+validator device_4 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_33.
+validator device_4 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_36.
+validator device_4 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_48.
+validator device_4 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_49.
+validator device_4 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_4
+validator device_4 has broadcasted 1 worker transactions to validator device_19.
+validator device_31 associated with miner device_27
+device_31 - validator 3/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_31 is doing local updates
+Worker device_39 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_31 has accepted this transaction.
+validator device_31 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_28.
+validator device_31 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_18.
+validator device_31 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_6.
+validator device_31 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_50.
+validator device_31 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_44.
+validator device_31 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_4.
+validator device_31 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_38.
+validator device_31 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_24.
+validator device_31 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_32.
+validator device_31 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_25.
+validator device_31 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_3.
+validator device_31 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_33.
+validator device_31 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_36.
+validator device_31 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_48.
+validator device_31 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_49.
+validator device_31 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_31
+validator device_31 has broadcasted 1 worker transactions to validator device_19.
+validator device_24 associated with miner device_1
+device_24 - validator 4/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_24 is doing local updates
+Worker device_37 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_24 has accepted this transaction.
+validator device_24 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_28.
+validator device_24 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_18.
+validator device_24 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_6.
+validator device_24 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_50.
+validator device_24 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_44.
+validator device_24 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_4.
+validator device_24 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_38.
+validator device_24 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_32.
+validator device_24 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_31.
+validator device_24 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_25.
+validator device_24 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_3.
+validator device_24 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_33.
+validator device_24 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_36.
+validator device_24 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_48.
+validator device_24 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_49.
+validator device_24 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_24
+validator device_24 has broadcasted 1 worker transactions to validator device_19.
+validator device_50 associated with miner device_35
+No workers are associated with validator device_50 5/17 for this communication round.
+validator device_19 associated with miner device_30
+device_19 - validator 6/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_19 is doing local updates
+Worker device_15 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_19 has accepted this transaction.
+worker 2/2 of validator device_19 is doing local updates
+Worker device_5 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_19 has accepted this transaction.
+validator device_19 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_28.
+validator device_19 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_18.
+validator device_19 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_6.
+validator device_19 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_50.
+validator device_19 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_44.
+validator device_19 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_4.
+validator device_19 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_38.
+validator device_19 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_24.
+validator device_19 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_32.
+validator device_19 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_31.
+validator device_19 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_25.
+validator device_19 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_3.
+validator device_19 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_33.
+validator device_19 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_36.
+validator device_19 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_48.
+validator device_19 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_19
+validator device_19 has broadcasted 2 worker transactions to validator device_49.
+validator device_38 associated with miner device_45
+device_38 - validator 7/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/3 of validator device_38 is doing local updates
+Worker device_13 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_38 has accepted this transaction.
+worker 2/3 of validator device_38 is doing local updates
+Worker device_42 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_38 has accepted this transaction.
+worker 3/3 of validator device_38 is doing local updates
+Worker device_11 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_38 has accepted this transaction.
+validator device_38 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_28.
+validator device_38 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_18.
+validator device_38 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_6.
+validator device_38 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_50.
+validator device_38 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_44.
+validator device_38 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_4.
+validator device_38 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_24.
+validator device_38 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_32.
+validator device_38 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_31.
+validator device_38 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_25.
+validator device_38 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_3.
+validator device_38 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_33.
+validator device_38 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_36.
+validator device_38 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_48.
+validator device_38 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_49.
+validator device_38 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 3 worker transactions to validator device_19.
+validator device_6 associated with miner device_21
+device_6 - validator 8/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_6 is doing local updates
+Worker device_8 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_6 has accepted this transaction.
+worker 2/2 of validator device_6 is doing local updates
+Worker device_46 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_6 has accepted this transaction.
+validator device_6 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_28.
+validator device_6 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_18.
+validator device_6 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_50.
+validator device_6 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_44.
+validator device_6 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_4.
+validator device_6 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_38.
+validator device_6 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_24.
+validator device_6 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_32.
+validator device_6 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_31.
+validator device_6 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_25.
+validator device_6 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_3.
+validator device_6 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_33.
+validator device_6 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_36.
+validator device_6 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_48.
+validator device_6 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_49.
+validator device_6 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_6
+validator device_6 has broadcasted 2 worker transactions to validator device_19.
+validator device_32 associated with miner device_40
+device_32 - validator 9/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_32 is doing local updates
+Worker device_34 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_32 has accepted this transaction.
+validator device_32 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_28.
+validator device_32 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_18.
+validator device_32 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_6.
+validator device_32 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_50.
+validator device_32 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_44.
+validator device_32 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_4.
+validator device_32 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_38.
+validator device_32 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_24.
+validator device_32 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_31.
+validator device_32 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_25.
+validator device_32 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_3.
+validator device_32 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_33.
+validator device_32 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_36.
+validator device_32 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_48.
+validator device_32 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_49.
+validator device_32 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_32
+validator device_32 has broadcasted 1 worker transactions to validator device_19.
+validator device_33 associated with miner device_21
+device_33 - validator 10/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/3 of validator device_33 is doing local updates
+Worker device_9 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_9 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_33 has accepted this transaction.
+worker 2/3 of validator device_33 is doing local updates
+Worker device_20 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_33 has accepted this transaction.
+worker 3/3 of validator device_33 is doing local updates
+Worker device_43 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_33 has accepted this transaction.
+validator device_33 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_28.
+validator device_33 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_18.
+validator device_33 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_6.
+validator device_33 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_50.
+validator device_33 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_44.
+validator device_33 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_4.
+validator device_33 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_38.
+validator device_33 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_24.
+validator device_33 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_32.
+validator device_33 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_31.
+validator device_33 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_25.
+validator device_33 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_3.
+validator device_33 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_36.
+validator device_33 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_48.
+validator device_33 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_49.
+validator device_33 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_33
+validator device_33 has broadcasted 3 worker transactions to validator device_19.
+validator device_28 associated with miner device_27
+No workers are associated with validator device_28 11/17 for this communication round.
+validator device_3 associated with miner device_40
+device_3 - validator 12/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_3 is doing local updates
+Worker device_26 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_3 has accepted this transaction.
+validator device_3 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_28.
+validator device_3 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_18.
+validator device_3 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_6.
+validator device_3 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_50.
+validator device_3 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_44.
+validator device_3 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_4.
+validator device_3 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_38.
+validator device_3 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_24.
+validator device_3 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_32.
+validator device_3 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_31.
+validator device_3 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_25.
+validator device_3 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_33.
+validator device_3 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_36.
+validator device_3 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_48.
+validator device_3 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_49.
+validator device_3 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_3
+validator device_3 has broadcasted 1 worker transactions to validator device_19.
+validator device_36 associated with miner device_17
+No workers are associated with validator device_36 13/17 for this communication round.
+validator device_48 associated with miner device_23
+device_48 - validator 14/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_48 is doing local updates
+Worker device_14 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_48 has accepted this transaction.
+worker 2/2 of validator device_48 is doing local updates
+Worker device_7 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_48 has accepted this transaction.
+validator device_48 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_28.
+validator device_48 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_18.
+validator device_48 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_6.
+validator device_48 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_50.
+validator device_48 is broadcasting received validator transactions to validator device_44.
+validator device_44 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_44.
+validator device_48 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_4.
+validator device_48 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_38.
+validator device_48 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_24.
+validator device_48 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_32.
+validator device_48 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_31.
+validator device_48 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_25.
+validator device_48 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_3.
+validator device_48 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_33.
+validator device_48 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_36.
+validator device_48 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_49.
+validator device_48 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_48
+validator device_48 has broadcasted 2 worker transactions to validator device_19.
+validator device_44 associated with miner device_40
+device_44 - validator 15/17 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_44 is doing local updates
+Worker device_47 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_44 has accepted this transaction.
+validator device_44 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_28.
+validator device_44 is broadcasting received validator transactions to validator device_18.
+validator device_18 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_18.
+validator device_44 is broadcasting received validator transactions to validator device_6.
+validator device_6 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_6.
+validator device_44 is broadcasting received validator transactions to validator device_50.
+validator device_50 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_50.
+validator device_44 is broadcasting received validator transactions to validator device_4.
+validator device_4 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_4.
+validator device_44 is broadcasting received validator transactions to validator device_38.
+validator device_38 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_38.
+validator device_44 is broadcasting received validator transactions to validator device_24.
+validator device_24 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_24.
+validator device_44 is broadcasting received validator transactions to validator device_32.
+validator device_32 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_32.
+validator device_44 is broadcasting received validator transactions to validator device_31.
+validator device_31 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_31.
+validator device_44 is broadcasting received validator transactions to validator device_25.
+validator device_25 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_25.
+validator device_44 is broadcasting received validator transactions to validator device_3.
+validator device_3 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_3.
+validator device_44 is broadcasting received validator transactions to validator device_33.
+validator device_33 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_33.
+validator device_44 is broadcasting received validator transactions to validator device_36.
+validator device_36 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_36.
+validator device_44 is broadcasting received validator transactions to validator device_48.
+validator device_48 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_48.
+validator device_44 is broadcasting received validator transactions to validator device_49.
+validator device_49 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_49.
+validator device_44 is broadcasting received validator transactions to validator device_19.
+validator device_19 has accepted worker transactions from validator device_44
+validator device_44 has broadcasted 1 worker transactions to validator device_19.
+validator device_18 associated with miner device_40
+No workers are associated with validator device_18 16/17 for this communication round.
+validator device_49 associated with miner device_2
+No workers are associated with validator device_49 17/17 for this communication round.
+ Step 2.5 - with the broadcasted workers transactions, validators decide the final transaction arrival order 
+
+device_25 - validator 1/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_25 - validator 1/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_4 - validator 2/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_4 - validator 2/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_31 - validator 3/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_31 - validator 3/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_24 - validator 4/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_24 - validator 4/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_50 - validator 5/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_50 - validator 5/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_19 - validator 6/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_19 - validator 6/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_38 - validator 7/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_38 - validator 7/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_6 - validator 8/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_6 - validator 8/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_32 - validator 9/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_32 - validator 9/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_33 - validator 10/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_33 - validator 10/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_28 - validator 11/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_28 - validator 11/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_3 - validator 12/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_3 - validator 12/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_36 - validator 13/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_36 - validator 13/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_48 - validator 14/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_48 - validator 14/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_44 - validator 15/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_44 - validator 15/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_18 - validator 16/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_18 - validator 16/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+device_49 - validator 17/17 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_49 - validator 17/17 done calculating the ordered final transactions arrival order. Total 18 accepted transactions.
+ Step 3 - validators do self and cross-validation(validate local updates from workers) by the order of transaction arrival time.
+
+validator device_25 is performing one epoch of local update and validation
+validator device_25 locally updated model has accuracy 0.1532999575138092 on its local test set
+device_25 - validator 1/17 is validating received worker transactions...
+Signature of transaction from worker device_26 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_26 by validator device_25
+Signature of transaction from worker device_46 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_46 by validator device_25
+Signature of transaction from worker device_39 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_39 by validator device_25
+Signature of transaction from worker device_47 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_47 by validator device_25
+Signature of transaction from worker device_37 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_37 by validator device_25
+Signature of transaction from worker device_8 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_8 by validator device_25
+Signature of transaction from worker device_7 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_7 by validator device_25
+Signature of transaction from worker device_34 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_34 by validator device_25
+Signature of transaction from worker device_14 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_14 by validator device_25
+Signature of transaction from worker device_11 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_11 by validator device_25
+Signature of transaction from worker device_15 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_15 by validator device_25
+Signature of transaction from worker device_5 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_5 by validator device_25
+Signature of transaction from worker device_43 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_43 by validator device_25
+Signature of transaction from worker device_42 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_42 by validator device_25
+Signature of transaction from worker device_13 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_13 by validator device_25
+Signature of transaction from worker device_20 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_20 by validator device_25
+Signature of transaction from worker device_9 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+worker device_9's' updates is deemed as GOOD by validator device_25
+Warning - device_9 is malicious and this validation is wrong.
+A validation process has been done for the transaction from worker device_9 by validator device_25
+Signature of transaction from worker device_16 is verified by validator device_25!
+validator updated model accuracy - 0.1532999575138092
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_25
+A validation process has been done for the transaction from worker device_16 by validator device_25
+validator device_4 is performing one epoch of local update and validation
+validator device_4 locally updated model has accuracy 0.3133000135421753 on its local test set
+device_4 - validator 2/17 is validating received worker transactions...
+Signature of transaction from worker device_26 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_26 by validator device_4
+Signature of transaction from worker device_46 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_46 by validator device_4
+Signature of transaction from worker device_39 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_39 by validator device_4
+Signature of transaction from worker device_47 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_47 by validator device_4
+Signature of transaction from worker device_37 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_37 by validator device_4
+Signature of transaction from worker device_8 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_8 by validator device_4
+Signature of transaction from worker device_7 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_7 by validator device_4
+Signature of transaction from worker device_34 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_34 by validator device_4
+Signature of transaction from worker device_14 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_14 by validator device_4
+Signature of transaction from worker device_11 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_11 by validator device_4
+Signature of transaction from worker device_15 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_15 by validator device_4
+Signature of transaction from worker device_5 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_5 by validator device_4
+Signature of transaction from worker device_43 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_43 by validator device_4
+Signature of transaction from worker device_42 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_42 by validator device_4
+Signature of transaction from worker device_13 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_13 by validator device_4
+Signature of transaction from worker device_20 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_20 by validator device_4
+Signature of transaction from worker device_9 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_4
+A validation process has been done for the transaction from worker device_9 by validator device_4
+Signature of transaction from worker device_16 is verified by validator device_4!
+validator updated model accuracy - 0.3133000135421753
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_4
+A validation process has been done for the transaction from worker device_16 by validator device_4
+validator device_31 is performing one epoch of local update and validation
+validator device_31 locally updated model has accuracy 0.41130003333091736 on its local test set
+device_31 - validator 3/17 is validating received worker transactions...
+Signature of transaction from worker device_39 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_39 by validator device_31
+Signature of transaction from worker device_26 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_26 by validator device_31
+Signature of transaction from worker device_46 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_46 by validator device_31
+Signature of transaction from worker device_47 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_47 by validator device_31
+Signature of transaction from worker device_37 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_37 by validator device_31
+Signature of transaction from worker device_8 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_8 by validator device_31
+Signature of transaction from worker device_7 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_7 by validator device_31
+Signature of transaction from worker device_34 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_34 by validator device_31
+Signature of transaction from worker device_14 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_14 by validator device_31
+Signature of transaction from worker device_11 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_11 by validator device_31
+Signature of transaction from worker device_15 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_15 by validator device_31
+Signature of transaction from worker device_5 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_5 by validator device_31
+Signature of transaction from worker device_43 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_43 by validator device_31
+Signature of transaction from worker device_42 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_42 by validator device_31
+Signature of transaction from worker device_13 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_13 by validator device_31
+Signature of transaction from worker device_20 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_20 by validator device_31
+Signature of transaction from worker device_9 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_31
+A validation process has been done for the transaction from worker device_9 by validator device_31
+Signature of transaction from worker device_16 is verified by validator device_31!
+validator updated model accuracy - 0.41130003333091736
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_31
+A validation process has been done for the transaction from worker device_16 by validator device_31
+validator device_24 is performing one epoch of local update and validation
+validator device_24 locally updated model has accuracy 0.31380003690719604 on its local test set
+device_24 - validator 4/17 is validating received worker transactions...
+Signature of transaction from worker device_37 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_37 by validator device_24
+Signature of transaction from worker device_26 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_26 by validator device_24
+Signature of transaction from worker device_46 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_46 by validator device_24
+Signature of transaction from worker device_39 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_39 by validator device_24
+Signature of transaction from worker device_47 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_47 by validator device_24
+Signature of transaction from worker device_8 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_8 by validator device_24
+Signature of transaction from worker device_7 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_7 by validator device_24
+Signature of transaction from worker device_34 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_34 by validator device_24
+Signature of transaction from worker device_14 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_14 by validator device_24
+Signature of transaction from worker device_11 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_11 by validator device_24
+Signature of transaction from worker device_15 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_15 by validator device_24
+Signature of transaction from worker device_5 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_5 by validator device_24
+Signature of transaction from worker device_43 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_43 by validator device_24
+Signature of transaction from worker device_42 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_42 by validator device_24
+Signature of transaction from worker device_13 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_13 by validator device_24
+Signature of transaction from worker device_20 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_20 by validator device_24
+Signature of transaction from worker device_9 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_24
+A validation process has been done for the transaction from worker device_9 by validator device_24
+Signature of transaction from worker device_16 is verified by validator device_24!
+validator updated model accuracy - 0.31380003690719604
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_24
+A validation process has been done for the transaction from worker device_16 by validator device_24
+validator device_50 is performing one epoch of local update and validation
+validator device_50 locally updated model has accuracy 0.29009994864463806 on its local test set
+device_50 - validator 5/17 is validating received worker transactions...
+Signature of transaction from worker device_26 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_26 by validator device_50
+Signature of transaction from worker device_46 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_46 by validator device_50
+Signature of transaction from worker device_39 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_39 by validator device_50
+Signature of transaction from worker device_47 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_47 by validator device_50
+Signature of transaction from worker device_37 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_37 by validator device_50
+Signature of transaction from worker device_8 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_8 by validator device_50
+Signature of transaction from worker device_7 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_7 by validator device_50
+Signature of transaction from worker device_34 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_34 by validator device_50
+Signature of transaction from worker device_14 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_14 by validator device_50
+Signature of transaction from worker device_11 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_11 by validator device_50
+Signature of transaction from worker device_15 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_15 by validator device_50
+Signature of transaction from worker device_5 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_5 by validator device_50
+Signature of transaction from worker device_43 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_43 by validator device_50
+Signature of transaction from worker device_42 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_42 by validator device_50
+Signature of transaction from worker device_13 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_13 by validator device_50
+Signature of transaction from worker device_20 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_20 by validator device_50
+Signature of transaction from worker device_9 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_50
+A validation process has been done for the transaction from worker device_9 by validator device_50
+Signature of transaction from worker device_16 is verified by validator device_50!
+validator updated model accuracy - 0.29009994864463806
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_50
+A validation process has been done for the transaction from worker device_16 by validator device_50
+validator device_19 is performing one epoch of local update and validation
+validator device_19 locally updated model has accuracy 0.2880001366138458 on its local test set
+device_19 - validator 6/17 is validating received worker transactions...
+Signature of transaction from worker device_15 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_15 by validator device_19
+Signature of transaction from worker device_5 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_5 by validator device_19
+Signature of transaction from worker device_26 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_26 by validator device_19
+Signature of transaction from worker device_46 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_46 by validator device_19
+Signature of transaction from worker device_39 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_39 by validator device_19
+Signature of transaction from worker device_47 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_47 by validator device_19
+Signature of transaction from worker device_37 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_37 by validator device_19
+Signature of transaction from worker device_8 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_8 by validator device_19
+Signature of transaction from worker device_7 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_7 by validator device_19
+Signature of transaction from worker device_34 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_34 by validator device_19
+Signature of transaction from worker device_14 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_14 by validator device_19
+Signature of transaction from worker device_11 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_11 by validator device_19
+Signature of transaction from worker device_43 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_43 by validator device_19
+Signature of transaction from worker device_42 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_42 by validator device_19
+Signature of transaction from worker device_13 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_13 by validator device_19
+Signature of transaction from worker device_20 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_20 by validator device_19
+Signature of transaction from worker device_9 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_19
+A validation process has been done for the transaction from worker device_9 by validator device_19
+Signature of transaction from worker device_16 is verified by validator device_19!
+validator updated model accuracy - 0.2880001366138458
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_19
+A validation process has been done for the transaction from worker device_16 by validator device_19
+validator device_38 is performing one epoch of local update and validation
+validator device_38 locally updated model has accuracy 0.28940001130104065 on its local test set
+device_38 - validator 7/17 is validating received worker transactions...
+Signature of transaction from worker device_11 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_11 by validator device_38
+Signature of transaction from worker device_26 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_26 by validator device_38
+Signature of transaction from worker device_46 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_46 by validator device_38
+Signature of transaction from worker device_39 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_39 by validator device_38
+Signature of transaction from worker device_47 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_47 by validator device_38
+Signature of transaction from worker device_37 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_37 by validator device_38
+Signature of transaction from worker device_8 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_8 by validator device_38
+Signature of transaction from worker device_7 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_7 by validator device_38
+Signature of transaction from worker device_34 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_34 by validator device_38
+Signature of transaction from worker device_14 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_14 by validator device_38
+Signature of transaction from worker device_42 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_42 by validator device_38
+Signature of transaction from worker device_13 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.5760000944137573
+worker device_13's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_13 by validator device_38
+Signature of transaction from worker device_15 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_15 by validator device_38
+Signature of transaction from worker device_5 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_5 by validator device_38
+Signature of transaction from worker device_43 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_43 by validator device_38
+Signature of transaction from worker device_20 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6746001243591309
+worker device_20's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_20 by validator device_38
+Signature of transaction from worker device_9 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.08400001376867294
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_38
+A validation process has been done for the transaction from worker device_9 by validator device_38
+Signature of transaction from worker device_16 is verified by validator device_38!
+validator updated model accuracy - 0.28940001130104065
+After applying worker's update, model accuracy becomes - 0.6088999509811401
+worker device_16's' updates is deemed as GOOD by validator device_38
+A validation process has been done for the transaction from worker device_16 by validator device_38
+validator device_6 is performing one epoch of local update and validation
+validator device_6 locally updated model has accuracy 0.3060000538825989 on its local test set
+device_6 - validator 8/17 is validating received worker transactions...
+Signature of transaction from worker device_8 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6378000378608704
+worker device_8's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_8 by validator device_6
+Signature of transaction from worker device_46 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.5983000993728638
+worker device_46's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_46 by validator device_6
+Signature of transaction from worker device_26 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6502000093460083
+worker device_26's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_26 by validator device_6
+Signature of transaction from worker device_39 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6148999333381653
+worker device_39's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_39 by validator device_6
+Signature of transaction from worker device_47 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.618600070476532
+worker device_47's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_47 by validator device_6
+Signature of transaction from worker device_37 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6365000009536743
+worker device_37's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_37 by validator device_6
+Signature of transaction from worker device_7 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6511999368667603
+worker device_7's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_7 by validator device_6
+Signature of transaction from worker device_34 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.659899890422821
+worker device_34's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_34 by validator device_6
+Signature of transaction from worker device_14 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6129000186920166
+worker device_14's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_14 by validator device_6
+Signature of transaction from worker device_11 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6388999819755554
+worker device_11's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_11 by validator device_6
+Signature of transaction from worker device_15 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.5722001194953918
+worker device_15's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_15 by validator device_6
+Signature of transaction from worker device_5 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6351000070571899
+worker device_5's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_5 by validator device_6
+Signature of transaction from worker device_43 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6597999334335327
+worker device_43's' updates is deemed as GOOD by validator device_6
+A validation process has been done for the transaction from worker device_43 by validator device_6
+Signature of transaction from worker device_42 is verified by validator device_6!
+validator updated model accuracy - 0.3060000538825989
+After applying worker's update, model accuracy becomes - 0.6428999304771423
+worker device_42's' updates is deemed as GOOD by validator device_6

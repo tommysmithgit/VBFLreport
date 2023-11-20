@@ -1,0 +1,1763 @@
+Malicious nodes vs total devices set to 15/50 = 30.00%
+1 GPUs are available to use!
+Extracting data/MNIST/train-images-idx3-ubyte.gz
+Extracting data/MNIST/train-labels-idx1-ubyte.gz
+Extracting data/MNIST/t10k-images-idx3-ubyte.gz
+Extracting data/MNIST/t10k-labels-idx1-ubyte.gz
+Sharding dataset to device_1 done.
+Sharding dataset to device_2 done.
+Sharding dataset to device_3 done.
+Sharding dataset to device_4 done.
+Sharding dataset to device_5 done.
+Sharding dataset to device_6 done.
+Sharding dataset to device_7 done.
+Sharding dataset to device_8 done.
+Sharding dataset to device_9 done.
+Sharding dataset to device_10 done.
+Sharding dataset to device_11 done.
+Sharding dataset to device_12 done.
+Sharding dataset to device_13 done.
+Sharding dataset to device_14 done.
+Sharding dataset to device_15 done.
+Sharding dataset to device_16 done.
+Sharding dataset to device_17 done.
+Sharding dataset to device_18 done.
+Sharding dataset to device_19 done.
+Sharding dataset to device_20 done.
+Sharding dataset to device_21 done.
+Sharding dataset to device_22 done.
+Sharding dataset to device_23 done.
+Sharding dataset to device_24 done.
+Sharding dataset to device_25 done.
+Sharding dataset to device_26 done.
+Sharding dataset to device_27 done.
+Sharding dataset to device_28 done.
+Sharding dataset to device_29 done.
+Sharding dataset to device_30 done.
+Sharding dataset to device_31 done.
+Sharding dataset to device_32 done.
+Sharding dataset to device_33 done.
+Sharding dataset to device_34 done.
+Sharding dataset to device_35 done.
+Sharding dataset to device_36 done.
+Sharding dataset to device_37 done.
+Sharding dataset to device_38 done.
+Sharding dataset to device_39 done.
+Sharding dataset to device_40 done.
+Sharding dataset to device_41 done.
+Sharding dataset to device_42 done.
+Sharding dataset to device_43 done.
+Sharding dataset to device_44 done.
+Sharding dataset to device_45 done.
+Sharding dataset to device_46 done.
+Sharding dataset to device_47 done.
+Sharding dataset to device_48 done.
+Sharding dataset to device_49 done.
+Sharding dataset to device_50 done.
+Sharding dataset done!
+
+Communication round 1
+device_1 worker online - chain length 0
+device_7 miner online - chain length 0
+device_16 validator online - chain length 0
+device_24 validator online - chain length 0
+device_43 worker online - chain length 0
+device_11 miner online - chain length 0
+device_34 worker online - chain length 0
+device_45 miner online - chain length 0
+device_40 validator online - chain length 0
+device_21 validator online - chain length 0
+device_13 validator online - chain length 0
+device_36 miner online - chain length 0
+device_19 worker online - chain length 0
+device_22 worker online - chain length 0
+device_48 validator online - chain length 0
+device_12 worker online - chain length 0
+device_4 validator online - chain length 0
+device_14 validator online - chain length 0
+device_2 validator online - chain length 0
+device_5 miner online - chain length 0
+device_33 worker online - chain length 0
+device_44 miner online - chain length 0
+device_17 miner online - chain length 0
+device_49 miner online - chain length 0
+device_42 miner online - chain length 0
+device_31 worker online - chain length 0
+device_27 validator online - chain length 0
+device_39 validator online - chain length 0
+device_37 miner online - chain length 0
+device_8 worker online - chain length 0
+device_29 validator online - chain length 0
+device_28 validator online - chain length 0
+device_9 validator online - chain length 0
+device_46 validator online - chain length 0
+device_50 worker online - chain length 0
+device_47 validator online - chain length 0
+device_25 validator online - chain length 0
+device_26 validator online - chain length 0
+device_35 validator online - chain length 0
+device_10 miner online - chain length 0
+device_23 worker online - chain length 0
+device_32 miner online - chain length 0
+device_6 worker online - chain length 0
+device_18 miner online - chain length 0
+device_3 validator online - chain length 0
+device_20 worker online - chain length 0
+device_30 worker online - chain length 0
+device_15 miner online - chain length 0
+device_38 miner online - chain length 0
+device_41 miner online - chain length 0
+
+There are 14 workers, 16 miners and 20 validators in this round.
+
+workers this round are
+d_1 online - True with chain len 0
+d_43 online - True with chain len 0
+d_34 online - True with chain len 0
+d_19 online - True with chain len 0
+d_22 online - True with chain len 0
+d_12 online - True with chain len 0
+d_33 online - True with chain len 0
+d_31 online - True with chain len 0
+d_8 online - True with chain len 0
+d_50 online - True with chain len 0
+d_23 online - True with chain len 0
+d_6 online - True with chain len 0
+d_20 online - True with chain len 0
+d_30 online - True with chain len 0
+
+miners this round are
+d_7 online - True with chain len 0
+d_11 online - True with chain len 0
+d_45 online - True with chain len 0
+d_36 online - True with chain len 0
+d_5 online - True with chain len 0
+d_44 online - True with chain len 0
+d_17 online - True with chain len 0
+d_49 online - True with chain len 0
+d_42 online - True with chain len 0
+d_37 online - True with chain len 0
+d_10 online - True with chain len 0
+d_32 online - True with chain len 0
+d_18 online - True with chain len 0
+d_15 online - True with chain len 0
+d_38 online - True with chain len 0
+d_41 online - True with chain len 0
+
+validators this round are
+d_16 online - True with chain len 0
+d_24 online - True with chain len 0
+d_40 online - True with chain len 0
+d_21 online - True with chain len 0
+d_13 online - True with chain len 0
+d_48 online - True with chain len 0
+d_4 online - True with chain len 0
+d_14 online - True with chain len 0
+d_2 online - True with chain len 0
+d_27 online - True with chain len 0
+d_39 online - True with chain len 0
+d_29 online - True with chain len 0
+d_28 online - True with chain len 0
+d_9 online - True with chain len 0
+d_46 online - True with chain len 0
+d_47 online - True with chain len 0
+d_25 online - True with chain len 0
+d_26 online - True with chain len 0
+d_35 online - True with chain len 0
+d_3 online - True with chain len 0
+
++++++++++ Round 1 Beginning Peer Lists +++++++++
+d_1 - w has peer list d_21 - v, d_27 - v, 
+d_2 - v has peer list d_23 - w, d_39 - v, 
+d_3 - v has peer list d_30 - w, d_11 - m, 
+d_4 - v has peer list d_49 - m, 
+d_5 - m has peer list d_20 - w, 
+d_6 - w has peer list d_39 - v, d_26 - v, d_2 - v, 
+d_7 - m has peer list d_41 - m, d_21 - v, d_46 - v, 
+d_8 - w has peer list d_1 - w, d_21 - v, 
+d_9 - v has peer list d_42 - m, d_38 - m, 
+d_10 - m has peer list d_33 - w, 
+d_11 - m has peer list d_30 - w, d_3 - v, 
+d_12 - w has peer list d_14 - v, d_45 - m, 
+d_13 - v has peer list d_31 - w, d_32 - m, d_43 - w, 
+d_14 - v has peer list d_12 - w, d_45 - m, 
+d_15 - m has peer list d_17 - m, d_19 - w, d_22 - w, 
+d_16 - v has peer list d_18 - m, 
+d_17 - m has peer list d_22 - w, d_15 - m, 
+d_18 - m has peer list d_20 - w, d_28 - v, d_16 - v, 
+d_19 - w has peer list d_22 - w, d_29 - v, d_17 - m, d_15 - m, 
+d_20 - w has peer list d_5 - m, d_16 - v, d_28 - v, d_47 - v, d_18 - m, 
+d_21 - v has peer list d_1 - w, d_8 - w, d_41 - m, d_30 - w, d_7 - m, 
+d_22 - w has peer list d_47 - v, d_15 - m, 
+d_23 - w has peer list d_39 - v, d_2 - v, 
+d_24 - v has peer list d_32 - m, d_40 - v, 
+d_25 - v has peer list d_31 - w, d_30 - w, d_3 - v, d_49 - m, 
+d_26 - v has peer list d_39 - v, d_6 - w, d_2 - v, 
+d_27 - v has peer list d_37 - m, d_1 - w, d_21 - v, d_44 - m, 
+d_28 - v has peer list d_18 - m, d_39 - v, d_44 - m, 
+d_29 - v has peer list d_15 - m, d_17 - m, d_19 - w, d_22 - w, 
+d_30 - w has peer list d_1 - w, d_41 - m, d_21 - v, d_3 - v, d_8 - w, d_7 - m, d_25 - v, 
+d_31 - w has peer list d_13 - v, d_30 - w, d_25 - v, d_3 - v, 
+d_32 - m has peer list d_13 - v, d_24 - v, d_31 - w, 
+d_33 - w has peer list d_10 - m, d_2 - v, d_50 - w, d_41 - m, d_6 - w, d_39 - v, 
+d_34 - w has peer list d_50 - w, 
+d_35 - v has peer list d_38 - m, d_9 - v, 
+d_36 - m has peer list d_12 - w, d_45 - m, 
+d_37 - m has peer list d_1 - w, d_21 - v, d_27 - v, 
+d_38 - m has peer list d_46 - v, d_9 - v, d_35 - v, d_45 - m, 
+d_39 - v has peer list d_18 - m, d_6 - w, d_44 - m, d_28 - v, d_33 - w, d_2 - v, 
+d_40 - v has peer list d_32 - m, d_24 - v, 
+d_41 - m has peer list d_10 - m, d_48 - v, d_6 - w, d_7 - m, d_39 - v, d_33 - w, d_2 - v, 
+d_42 - m has peer list d_38 - m, d_9 - v, 
+d_43 - w has peer list d_13 - v, d_32 - m, d_31 - w, 
+d_44 - m has peer list d_1 - w, d_21 - v, d_27 - v, d_37 - m, d_28 - v, 
+d_45 - m has peer list d_12 - w, d_38 - m, d_35 - v, d_9 - v, d_46 - v, d_36 - m, 
+d_46 - v has peer list d_38 - m, d_7 - m, d_21 - v, d_41 - m, 
+d_47 - v has peer list d_20 - w, d_5 - m, d_18 - m, d_16 - v, d_28 - v, d_22 - w, 
+d_48 - v has peer list d_10 - m, d_41 - m, d_6 - w, d_7 - m, d_39 - v, d_33 - w, d_2 - v, 
+d_49 - m has peer list d_4 - v, d_3 - v, d_31 - w, d_30 - w, d_25 - v, 
+d_50 - w has peer list d_10 - m, d_41 - m, d_34 - w, d_6 - w, d_39 - v, d_33 - w, d_2 - v, 
++++++++++ Round 1 Beginning Peer Lists +++++++++
+ Step 1 - workers assign associated miner and validator (and do local updates, but it is implemented in code block of step 2) 
+
+device_50 - worker 1/14 will associate with a validator and a miner, if online...
+worker device_50 associated with miner device_41
+worker device_50 associated with validator device_2
+device_22 - worker 2/14 will associate with a validator and a miner, if online...
+worker device_22 associated with miner device_15
+worker device_22 associated with validator device_47
+device_8 - worker 3/14 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_8 peer list.
+worker device_8 associated with validator device_21
+device_43 - worker 4/14 will associate with a validator and a miner, if online...
+worker device_43 associated with miner device_32
+worker device_43 associated with validator device_13
+device_34 - worker 5/14 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_34 peer list.
+Cannot find a qualified validator in device_34 peer list.
+device_1 - worker 6/14 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_1 peer list.
+worker device_1 associated with validator device_21
+device_19 - worker 7/14 will associate with a validator and a miner, if online...
+worker device_19 associated with miner device_15
+worker device_19 associated with validator device_29
+device_6 - worker 8/14 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_6 peer list.
+worker device_6 associated with validator device_26
+device_12 - worker 9/14 will associate with a validator and a miner, if online...
+worker device_12 associated with miner device_45
+worker device_12 associated with validator device_14
+device_20 - worker 10/14 will associate with a validator and a miner, if online...
+worker device_20 associated with miner device_5
+worker device_20 associated with validator device_28
+device_33 - worker 11/14 will associate with a validator and a miner, if online...
+worker device_33 associated with miner device_10
+worker device_33 associated with validator device_39
+device_31 - worker 12/14 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_31 peer list.
+worker device_31 associated with validator device_13
+device_23 - worker 13/14 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_23 peer list.
+worker device_23 associated with validator device_2
+device_30 - worker 14/14 will associate with a validator and a miner, if online...
+worker device_30 associated with miner device_41
+worker device_30 associated with validator device_21
+ Step 2 - validators accept local updates and broadcast to other validators in their respective peer lists (workers local_updates() are called in this step.
+
+validator device_48 associated with miner device_41
+No workers are associated with validator device_48 1/20 for this communication round.
+validator device_39 associated with miner device_18
+device_39 - validator 2/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_39 is doing local updates
+Worker device_33 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_39 has accepted this transaction.
+validator device_39 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_39
+validator device_39 has broadcasted 1 worker transactions to validator device_28.
+validator device_39 is broadcasting received validator transactions to validator device_2.
+validator device_2 has accepted worker transactions from validator device_39
+validator device_39 has broadcasted 1 worker transactions to validator device_2.
+validator device_47 associated with miner device_18
+device_47 - validator 3/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_47 is doing local updates
+Worker device_22 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_47 has accepted this transaction.
+validator device_47 is broadcasting received validator transactions to validator device_16.
+validator device_16 has accepted worker transactions from validator device_47
+validator device_47 has broadcasted 1 worker transactions to validator device_16.
+validator device_47 is broadcasting received validator transactions to validator device_28.
+validator device_28 has accepted worker transactions from validator device_47
+validator device_47 has broadcasted 1 worker transactions to validator device_28.
+validator device_9 associated with miner device_38
+No workers are associated with validator device_9 4/20 for this communication round.
+validator device_24 associated with miner device_32
+No workers are associated with validator device_24 5/20 for this communication round.
+validator device_35 associated with miner device_38
+No workers are associated with validator device_35 6/20 for this communication round.
+validator device_14 associated with miner device_45
+device_14 - validator 7/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_14 is doing local updates
+Worker device_12 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_14 has accepted this transaction.
+validator device_16 associated with miner device_18
+No workers are associated with validator device_16 8/20 for this communication round.
+Cannot find a qualified miner in validator device_26 peer list.
+device_26 - validator 9/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_26 is doing local updates
+Worker device_6 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_6 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_26 has accepted this transaction.
+validator device_26 is broadcasting received validator transactions to validator device_39.
+validator device_39 has accepted worker transactions from validator device_26
+validator device_26 has broadcasted 1 worker transactions to validator device_39.
+validator device_26 is broadcasting received validator transactions to validator device_2.
+validator device_2 has accepted worker transactions from validator device_26
+validator device_26 has broadcasted 1 worker transactions to validator device_2.
+validator device_4 associated with miner device_49
+No workers are associated with validator device_4 10/20 for this communication round.
+validator device_40 associated with miner device_32
+No workers are associated with validator device_40 11/20 for this communication round.
+validator device_29 associated with miner device_15
+device_29 - validator 12/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_29 is doing local updates
+Worker device_19 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_29 has accepted this transaction.
+validator device_21 associated with miner device_7
+device_21 - validator 13/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/3 of validator device_21 is doing local updates
+Worker device_1 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_1 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_21 has accepted this transaction.
+worker 2/3 of validator device_21 is doing local updates
+Worker device_8 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_21 has accepted this transaction.
+worker 3/3 of validator device_21 is doing local updates
+Worker device_30 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_21 has accepted this transaction.
+validator device_46 associated with miner device_41
+No workers are associated with validator device_46 14/20 for this communication round.
+validator device_13 associated with miner device_32
+device_13 - validator 15/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_13 is doing local updates
+Worker device_31 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_31 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_13 has accepted this transaction.
+worker 2/2 of validator device_13 is doing local updates
+Worker device_43 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_13 has accepted this transaction.
+validator device_25 associated with miner device_49
+No workers are associated with validator device_25 16/20 for this communication round.
+validator device_27 associated with miner device_44
+No workers are associated with validator device_27 17/20 for this communication round.
+validator device_3 associated with miner device_11
+No workers are associated with validator device_3 18/20 for this communication round.
+validator device_28 associated with miner device_18
+device_28 - validator 19/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_28 is doing local updates
+Worker device_20 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_28 has accepted this transaction.
+validator device_28 is broadcasting received validator transactions to validator device_39.
+validator device_39 has accepted worker transactions from validator device_28
+validator device_28 has broadcasted 1 worker transactions to validator device_39.
+Cannot find a qualified miner in validator device_2 peer list.
+device_2 - validator 20/20 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_2 is doing local updates
+Worker device_23 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_2 has accepted this transaction.
+worker 2/2 of validator device_2 is doing local updates
+Worker device_50 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_2 has accepted this transaction.
+validator device_2 is broadcasting received validator transactions to validator device_39.
+validator device_39 has accepted worker transactions from validator device_2
+validator device_2 has broadcasted 2 worker transactions to validator device_39.
+ Step 2.5 - with the broadcasted workers transactions, validators decide the final transaction arrival order 
+
+device_48 - validator 1/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_48 1/20 did not receive any broadcasted worker transaction this round.
+device_48 - validator 1/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_39 - validator 2/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_39 - validator 2/20 done calculating the ordered final transactions arrival order. Total 5 accepted transactions.
+device_47 - validator 3/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_47 3/20 did not receive any broadcasted worker transaction this round.
+device_47 - validator 3/20 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_9 - validator 4/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_9 4/20 did not receive any broadcasted worker transaction this round.
+device_9 - validator 4/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_24 - validator 5/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_24 5/20 did not receive any broadcasted worker transaction this round.
+device_24 - validator 5/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_35 - validator 6/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_35 6/20 did not receive any broadcasted worker transaction this round.
+device_35 - validator 6/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_14 - validator 7/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_14 7/20 did not receive any broadcasted worker transaction this round.
+device_14 - validator 7/20 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_16 - validator 8/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_16 - validator 8/20 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_26 - validator 9/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_26 9/20 did not receive any broadcasted worker transaction this round.
+device_26 - validator 9/20 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_4 - validator 10/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_4 10/20 did not receive any broadcasted worker transaction this round.
+device_4 - validator 10/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_40 - validator 11/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_40 11/20 did not receive any broadcasted worker transaction this round.
+device_40 - validator 11/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_29 - validator 12/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_29 12/20 did not receive any broadcasted worker transaction this round.
+device_29 - validator 12/20 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_21 - validator 13/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_21 13/20 did not receive any broadcasted worker transaction this round.
+device_21 - validator 13/20 done calculating the ordered final transactions arrival order. Total 3 accepted transactions.
+device_46 - validator 14/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_46 14/20 did not receive any broadcasted worker transaction this round.
+device_46 - validator 14/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_13 - validator 15/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_13 15/20 did not receive any broadcasted worker transaction this round.
+device_13 - validator 15/20 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_25 - validator 16/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_25 16/20 did not receive any broadcasted worker transaction this round.
+device_25 - validator 16/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_27 - validator 17/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_27 17/20 did not receive any broadcasted worker transaction this round.
+device_27 - validator 17/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_3 - validator 18/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_3 18/20 did not receive any broadcasted worker transaction this round.
+device_3 - validator 18/20 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_28 - validator 19/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_28 - validator 19/20 done calculating the ordered final transactions arrival order. Total 3 accepted transactions.
+device_2 - validator 20/20 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_2 - validator 20/20 done calculating the ordered final transactions arrival order. Total 4 accepted transactions.
+ Step 3 - validators do self and cross-validation(validate local updates from workers) by the order of transaction arrival time.
+
+device_48 - validator 1/20 did not receive any transaction from worker or validator in this round.
+validator device_39 is performing one epoch of local update and validation
+validator device_39 locally updated model has accuracy 0.44300001859664917 on its local test set
+device_39 - validator 2/20 is validating received worker transactions...
+Signature of transaction from worker device_6 is verified by validator device_39!
+validator updated model accuracy - 0.44300001859664917
+After applying worker's update, model accuracy becomes - 0.12049998342990875
+NOTE: worker device_6's updates is deemed as suspiciously malicious by validator device_39
+A validation process has been done for the transaction from worker device_6 by validator device_39
+Signature of transaction from worker device_50 is verified by validator device_39!
+validator updated model accuracy - 0.44300001859664917
+After applying worker's update, model accuracy becomes - 0.7270999550819397
+worker device_50's' updates is deemed as GOOD by validator device_39
+A validation process has been done for the transaction from worker device_50 by validator device_39
+Signature of transaction from worker device_20 is verified by validator device_39!
+validator updated model accuracy - 0.44300001859664917
+After applying worker's update, model accuracy becomes - 0.6894999742507935
+worker device_20's' updates is deemed as GOOD by validator device_39
+A validation process has been done for the transaction from worker device_20 by validator device_39
+Signature of transaction from worker device_23 is verified by validator device_39!
+validator updated model accuracy - 0.44300001859664917
+After applying worker's update, model accuracy becomes - 0.7177999019622803
+worker device_23's' updates is deemed as GOOD by validator device_39
+A validation process has been done for the transaction from worker device_23 by validator device_39
+Signature of transaction from worker device_33 is verified by validator device_39!
+validator updated model accuracy - 0.44300001859664917
+After applying worker's update, model accuracy becomes - 0.6524999737739563
+worker device_33's' updates is deemed as GOOD by validator device_39
+A validation process has been done for the transaction from worker device_33 by validator device_39
+validator device_47 is performing one epoch of local update and validation
+validator device_47 locally updated model has accuracy 0.4729999303817749 on its local test set
+device_47 - validator 3/20 is validating received worker transactions...
+Signature of transaction from worker device_22 is verified by validator device_47!
+validator updated model accuracy - 0.4729999303817749
+After applying worker's update, model accuracy becomes - 0.7110999822616577
+worker device_22's' updates is deemed as GOOD by validator device_47
+A validation process has been done for the transaction from worker device_22 by validator device_47
+device_9 - validator 4/20 did not receive any transaction from worker or validator in this round.
+device_24 - validator 5/20 did not receive any transaction from worker or validator in this round.
+device_35 - validator 6/20 did not receive any transaction from worker or validator in this round.
+validator device_14 is performing one epoch of local update and validation
+validator device_14 locally updated model has accuracy 0.529699981212616 on its local test set
+device_14 - validator 7/20 is validating received worker transactions...
+Signature of transaction from worker device_12 is verified by validator device_14!
+validator updated model accuracy - 0.529699981212616
+After applying worker's update, model accuracy becomes - 0.6998997926712036
+worker device_12's' updates is deemed as GOOD by validator device_14
+A validation process has been done for the transaction from worker device_12 by validator device_14
+validator device_16 is performing one epoch of local update and validation
+validator device_16 locally updated model has accuracy 0.33539989590644836 on its local test set
+device_16 - validator 8/20 is validating received worker transactions...
+Signature of transaction from worker device_22 is verified by validator device_16!
+validator updated model accuracy - 0.33539989590644836
+After applying worker's update, model accuracy becomes - 0.7110999822616577
+worker device_22's' updates is deemed as GOOD by validator device_16
+A validation process has been done for the transaction from worker device_22 by validator device_16
+validator device_26 is performing one epoch of local update and validation
+validator device_26 locally updated model has accuracy 0.5175000429153442 on its local test set
+device_26 - validator 9/20 is validating received worker transactions...
+Signature of transaction from worker device_6 is verified by validator device_26!
+validator updated model accuracy - 0.5175000429153442
+After applying worker's update, model accuracy becomes - 0.12049998342990875
+NOTE: worker device_6's updates is deemed as suspiciously malicious by validator device_26
+A validation process has been done for the transaction from worker device_6 by validator device_26
+device_4 - validator 10/20 did not receive any transaction from worker or validator in this round.
+device_40 - validator 11/20 did not receive any transaction from worker or validator in this round.
+validator device_29 is performing one epoch of local update and validation
+validator device_29 locally updated model has accuracy 0.3505000174045563 on its local test set
+device_29 - validator 12/20 is validating received worker transactions...
+Signature of transaction from worker device_19 is verified by validator device_29!
+validator updated model accuracy - 0.3505000174045563
+After applying worker's update, model accuracy becomes - 0.6645999550819397
+worker device_19's' updates is deemed as GOOD by validator device_29
+A validation process has been done for the transaction from worker device_19 by validator device_29
+validator device_21 is performing one epoch of local update and validation
+validator device_21 locally updated model has accuracy 0.5189999938011169 on its local test set
+device_21 - validator 13/20 is validating received worker transactions...
+Signature of transaction from worker device_8 is verified by validator device_21!
+validator updated model accuracy - 0.5189999938011169
+After applying worker's update, model accuracy becomes - 0.69569993019104
+worker device_8's' updates is deemed as GOOD by validator device_21
+A validation process has been done for the transaction from worker device_8 by validator device_21
+Signature of transaction from worker device_30 is verified by validator device_21!
+validator updated model accuracy - 0.5189999938011169
+After applying worker's update, model accuracy becomes - 0.7331000566482544
+worker device_30's' updates is deemed as GOOD by validator device_21
+A validation process has been done for the transaction from worker device_30 by validator device_21
+Signature of transaction from worker device_1 is verified by validator device_21!
+validator updated model accuracy - 0.5189999938011169
+After applying worker's update, model accuracy becomes - 0.06659999489784241
+NOTE: worker device_1's updates is deemed as suspiciously malicious by validator device_21
+A validation process has been done for the transaction from worker device_1 by validator device_21
+device_46 - validator 14/20 did not receive any transaction from worker or validator in this round.
+validator device_13 is performing one epoch of local update and validation
+validator device_13 locally updated model has accuracy 0.4646000266075134 on its local test set
+device_13 - validator 15/20 is validating received worker transactions...
+Signature of transaction from worker device_43 is verified by validator device_13!
+validator updated model accuracy - 0.4646000266075134
+After applying worker's update, model accuracy becomes - 0.7252001166343689
+worker device_43's' updates is deemed as GOOD by validator device_13
+A validation process has been done for the transaction from worker device_43 by validator device_13
+Signature of transaction from worker device_31 is verified by validator device_13!
+validator updated model accuracy - 0.4646000266075134
+After applying worker's update, model accuracy becomes - 0.13369998335838318
+NOTE: worker device_31's updates is deemed as suspiciously malicious by validator device_13
+A validation process has been done for the transaction from worker device_31 by validator device_13
+device_25 - validator 16/20 did not receive any transaction from worker or validator in this round.
+device_27 - validator 17/20 did not receive any transaction from worker or validator in this round.
+device_3 - validator 18/20 did not receive any transaction from worker or validator in this round.
+validator device_28 is performing one epoch of local update and validation
+validator device_28 locally updated model has accuracy 0.46039995551109314 on its local test set
+device_28 - validator 19/20 is validating received worker transactions...
+Signature of transaction from worker device_20 is verified by validator device_28!
+validator updated model accuracy - 0.46039995551109314
+After applying worker's update, model accuracy becomes - 0.6894999742507935
+worker device_20's' updates is deemed as GOOD by validator device_28
+A validation process has been done for the transaction from worker device_20 by validator device_28
+Signature of transaction from worker device_22 is verified by validator device_28!
+validator updated model accuracy - 0.46039995551109314
+After applying worker's update, model accuracy becomes - 0.7110999822616577
+worker device_22's' updates is deemed as GOOD by validator device_28
+A validation process has been done for the transaction from worker device_22 by validator device_28
+Signature of transaction from worker device_33 is verified by validator device_28!
+validator updated model accuracy - 0.46039995551109314
+After applying worker's update, model accuracy becomes - 0.6524999737739563
+worker device_33's' updates is deemed as GOOD by validator device_28
+A validation process has been done for the transaction from worker device_33 by validator device_28
+validator device_2 is performing one epoch of local update and validation
+validator device_2 locally updated model has accuracy 0.5184999108314514 on its local test set
+device_2 - validator 20/20 is validating received worker transactions...
+Signature of transaction from worker device_50 is verified by validator device_2!
+validator updated model accuracy - 0.5184999108314514
+After applying worker's update, model accuracy becomes - 0.7270999550819397
+worker device_50's' updates is deemed as GOOD by validator device_2
+A validation process has been done for the transaction from worker device_50 by validator device_2
+Signature of transaction from worker device_6 is verified by validator device_2!
+validator updated model accuracy - 0.5184999108314514
+After applying worker's update, model accuracy becomes - 0.12049998342990875
+NOTE: worker device_6's updates is deemed as suspiciously malicious by validator device_2
+A validation process has been done for the transaction from worker device_6 by validator device_2
+Signature of transaction from worker device_23 is verified by validator device_2!
+validator updated model accuracy - 0.5184999108314514
+After applying worker's update, model accuracy becomes - 0.7177999019622803
+worker device_23's' updates is deemed as GOOD by validator device_2
+A validation process has been done for the transaction from worker device_23 by validator device_2
+Signature of transaction from worker device_33 is verified by validator device_2!
+validator updated model accuracy - 0.5184999108314514
+After applying worker's update, model accuracy becomes - 0.6524999737739563
+worker device_33's' updates is deemed as GOOD by validator device_2
+A validation process has been done for the transaction from worker device_33 by validator device_2
+ Step 4 - validators send post validation transactions to associated miner and miner broadcasts these to other miners in their respecitve peer lists
+
+device_45 - miner 1/16 accepting validators' post-validation transactions...
+device_14 - validator 1/1 of miner device_45 is sending signature verified transaction...
+miner device_45 has accepted 1/1 post-validation transaction from validator device_14
+miner device_45 is broadcasting received validator transactions to miner device_38.
+miner device_38 has accepted validator transactions from miner device_45
+miner device_45 has broadcasted 1 validator transactions to miner device_38.
+miner device_45 is broadcasting received validator transactions to miner device_36.
+miner device_36 has accepted validator transactions from miner device_45
+miner device_45 has broadcasted 1 validator transactions to miner device_36.
+device_44 - miner 2/16 accepting validators' post-validation transactions...
+device_27 - validator 1/1 of miner device_44 is sending signature verified transaction...
+miner device_44 is broadcasting received validator transactions to miner device_37.
+miner device_37 has accepted validator transactions from miner device_44
+miner device_44 has broadcasted 0 validator transactions to miner device_37.
+device_42 - miner 3/16 accepting validators' post-validation transactions...
+No validators are associated with miner device_42 for this communication round.
+device_32 - miner 4/16 accepting validators' post-validation transactions...
+device_13 - validator 1/3 of miner device_32 is sending signature verified transaction...
+miner device_32 has accepted 1/2 post-validation transaction from validator device_13
+miner device_32 has accepted 2/2 post-validation transaction from validator device_13
+device_24 - validator 2/3 of miner device_32 is sending signature verified transaction...
+device_40 - validator 3/3 of miner device_32 is sending signature verified transaction...
+device_41 - miner 5/16 accepting validators' post-validation transactions...
+device_48 - validator 1/2 of miner device_41 is sending signature verified transaction...
+device_46 - validator 2/2 of miner device_41 is sending signature verified transaction...
+miner device_41 is broadcasting received validator transactions to miner device_10.
+miner device_10 has accepted validator transactions from miner device_41
+miner device_41 has broadcasted 0 validator transactions to miner device_10.
+miner device_41 is broadcasting received validator transactions to miner device_7.
+miner device_7 has accepted validator transactions from miner device_41
+miner device_41 has broadcasted 0 validator transactions to miner device_7.
+device_37 - miner 6/16 accepting validators' post-validation transactions...
+No validators are associated with miner device_37 for this communication round.
+device_36 - miner 7/16 accepting validators' post-validation transactions...
+No validators are associated with miner device_36 for this communication round.
+device_18 - miner 8/16 accepting validators' post-validation transactions...
+device_28 - validator 1/4 of miner device_18 is sending signature verified transaction...
+miner device_18 has accepted 1/3 post-validation transaction from validator device_28
+miner device_18 has accepted 2/3 post-validation transaction from validator device_28
+miner device_18 has accepted 3/3 post-validation transaction from validator device_28
+device_39 - validator 2/4 of miner device_18 is sending signature verified transaction...
+miner device_18 has accepted 1/5 post-validation transaction from validator device_39
+miner device_18 has accepted 2/5 post-validation transaction from validator device_39
+miner device_18 has accepted 3/5 post-validation transaction from validator device_39
+miner device_18 has accepted 4/5 post-validation transaction from validator device_39
+miner device_18 has accepted 5/5 post-validation transaction from validator device_39
+device_47 - validator 3/4 of miner device_18 is sending signature verified transaction...
+miner device_18 has accepted 1/1 post-validation transaction from validator device_47
+device_16 - validator 4/4 of miner device_18 is sending signature verified transaction...
+miner device_18 has accepted 1/1 post-validation transaction from validator device_16
+device_49 - miner 9/16 accepting validators' post-validation transactions...
+device_4 - validator 1/2 of miner device_49 is sending signature verified transaction...
+device_25 - validator 2/2 of miner device_49 is sending signature verified transaction...
+device_17 - miner 10/16 accepting validators' post-validation transactions...
+No validators are associated with miner device_17 for this communication round.
+device_15 - miner 11/16 accepting validators' post-validation transactions...
+device_29 - validator 1/1 of miner device_15 is sending signature verified transaction...
+miner device_15 has accepted 1/1 post-validation transaction from validator device_29
+miner device_15 is broadcasting received validator transactions to miner device_17.
+miner device_17 has accepted validator transactions from miner device_15
+miner device_15 has broadcasted 1 validator transactions to miner device_17.
+device_10 - miner 12/16 accepting validators' post-validation transactions...
+No validators are associated with miner device_10 for this communication round.
+device_38 - miner 13/16 accepting validators' post-validation transactions...
+device_9 - validator 1/2 of miner device_38 is sending signature verified transaction...
+device_35 - validator 2/2 of miner device_38 is sending signature verified transaction...
+miner device_38 is broadcasting received validator transactions to miner device_45.
+miner device_45 has accepted validator transactions from miner device_38
+miner device_38 has broadcasted 0 validator transactions to miner device_45.
+device_5 - miner 14/16 accepting validators' post-validation transactions...
+No validators are associated with miner device_5 for this communication round.
+device_7 - miner 15/16 accepting validators' post-validation transactions...
+device_21 - validator 1/1 of miner device_7 is sending signature verified transaction...
+miner device_7 has accepted 1/3 post-validation transaction from validator device_21
+miner device_7 has accepted 2/3 post-validation transaction from validator device_21
+miner device_7 has accepted 3/3 post-validation transaction from validator device_21
+miner device_7 is broadcasting received validator transactions to miner device_41.
+miner device_41 has accepted validator transactions from miner device_7
+miner device_7 has broadcasted 3 validator transactions to miner device_41.
+device_11 - miner 16/16 accepting validators' post-validation transactions...
+device_3 - validator 1/1 of miner device_11 is sending signature verified transaction...
+ Step 4.5 - with the broadcasted validator transactions, miners decide the final transaction arrival order
+ 
+device_45 - miner 1/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_45 - miner 1/16 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_44 - miner 2/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_44 2/16 did not receive any broadcasted validator transaction this round.
+device_44 - miner 2/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_42 - miner 3/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_42 3/16 did not receive any broadcasted validator transaction this round.
+device_42 - miner 3/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_32 - miner 4/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_32 4/16 did not receive any broadcasted validator transaction this round.
+device_32 - miner 4/16 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_41 - miner 5/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_41 - miner 5/16 done calculating the ordered final transactions arrival order. Total 3 accepted transactions.
+device_37 - miner 6/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_37 - miner 6/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_36 - miner 7/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_36 - miner 7/16 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_18 - miner 8/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_18 8/16 did not receive any broadcasted validator transaction this round.
+device_18 - miner 8/16 done calculating the ordered final transactions arrival order. Total 10 accepted transactions.
+device_49 - miner 9/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_49 9/16 did not receive any broadcasted validator transaction this round.
+device_49 - miner 9/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_17 - miner 10/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_17 - miner 10/16 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_15 - miner 11/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_15 11/16 did not receive any broadcasted validator transaction this round.
+device_15 - miner 11/16 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_10 - miner 12/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_10 - miner 12/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_38 - miner 13/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_38 - miner 13/16 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_5 - miner 14/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_5 14/16 did not receive any broadcasted validator transaction this round.
+device_5 - miner 14/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_7 - miner 15/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_7 - miner 15/16 done calculating the ordered final transactions arrival order. Total 3 accepted transactions.
+device_11 - miner 16/16 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_11 16/16 did not receive any broadcasted validator transaction this round.
+device_11 - miner 16/16 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+ Step 5 - miners do self and cross-verification (verify validators' signature) by the order of transaction arrival time and record the transactions in the candidate block according to the limit size. Also mine and propagate the block.
+
+device_45 - miner 1/16 is verifying received validator transactions...
+Signature of transaction from validator device_14 is verified by miner device_45!
+device_45 - miner 1/16 mining the block...
+device_45 - miner mines a block in 0.12353253364562988 seconds.
+miner device_45 is propagating its mined block to miner device_38.
+miner device_38 has accepted accepted a propagated block from miner device_45
+miner device_45 is propagating its mined block to miner device_36.
+miner device_36 has accepted accepted a propagated block from miner device_45
+device_44 - miner 2/16 did not receive any transaction from validator or miner in this round.
+device_42 - miner 3/16 did not receive any transaction from validator or miner in this round.
+device_32 - miner 4/16 is verifying received validator transactions...
+Signature of transaction from validator device_13 is verified by miner device_32!
+Signature of transaction from validator device_13 is verified by miner device_32!
+device_32 - miner 4/16 mining the block...
+device_32 - miner mines a block in 0.25005388259887695 seconds.
+device_41 - miner 5/16 is verifying received validator transactions...
+Signature of transaction from validator device_21 is verified by miner device_41!
+Signature of transaction from validator device_21 is verified by miner device_41!
+Signature of transaction from validator device_21 is verified by miner device_41!
+device_41 - miner 5/16 mining the block...
+device_41 - miner mines a block in 0.392749547958374 seconds.
+miner device_41 is propagating its mined block to miner device_10.
+miner device_10 has accepted accepted a propagated block from miner device_41
+miner device_41 is propagating its mined block to miner device_7.
+miner device_7 has accepted accepted a propagated block from miner device_41
+device_37 - miner 6/16 did not receive any transaction from validator or miner in this round.
+device_36 - miner 7/16 is verifying received validator transactions...
+Signature of transaction from validator device_14 is verified by miner device_36!
+device_36 - miner 7/16 mining the block...
+device_36 - miner mines a block in 0.12455987930297852 seconds.
+miner device_36 is propagating its mined block to miner device_45.
+miner device_45 has accepted accepted a propagated block from miner device_36
+device_18 - miner 8/16 is verifying received validator transactions...
+Signature of transaction from validator device_47 is verified by miner device_18!
+Signature of transaction from validator device_28 is verified by miner device_18!
+Signature of transaction from validator device_16 is verified by miner device_18!
+Signature of transaction from validator device_28 is verified by miner device_18!
+Signature of transaction from validator device_39 is verified by miner device_18!
+Signature of transaction from validator device_39 is verified by miner device_18!
+Signature of transaction from validator device_39 is verified by miner device_18!
+Signature of transaction from validator device_39 is verified by miner device_18!
+Signature of transaction from validator device_39 is verified by miner device_18!
+Signature of transaction from validator device_28 is verified by miner device_18!
+device_18 - miner 8/16 mining the block...
+device_18 - miner mines a block in 0.734163761138916 seconds.
+device_49 - miner 9/16 did not receive any transaction from validator or miner in this round.
+device_17 - miner 10/16 is verifying received validator transactions...
+Signature of transaction from validator device_29 is verified by miner device_17!
+device_17 - miner 10/16 mining the block...
+device_17 - miner mines a block in 0.1230020523071289 seconds.
+miner device_17 is propagating its mined block to miner device_15.
+miner device_15 has accepted accepted a propagated block from miner device_17
+device_15 - miner 11/16 is verifying received validator transactions...
+Signature of transaction from validator device_29 is verified by miner device_15!
+device_15 - miner 11/16 mining the block...
+device_15 - miner mines a block in 0.12266993522644043 seconds.
+miner device_15 is propagating its mined block to miner device_17.
+miner device_17 has accepted accepted a propagated block from miner device_15
+device_10 - miner 12/16 did not receive any transaction from validator or miner in this round.
+device_38 - miner 13/16 is verifying received validator transactions...
+Signature of transaction from validator device_14 is verified by miner device_38!
+device_38 - miner 13/16 mining the block...
+device_38 - miner mines a block in 0.12540221214294434 seconds.
+miner device_38 is propagating its mined block to miner device_45.
+miner device_45 has accepted accepted a propagated block from miner device_38
+device_5 - miner 14/16 did not receive any transaction from validator or miner in this round.
+device_7 - miner 15/16 is verifying received validator transactions...
+Signature of transaction from validator device_21 is verified by miner device_7!
+Signature of transaction from validator device_21 is verified by miner device_7!
+Signature of transaction from validator device_21 is verified by miner device_7!
+device_7 - miner 15/16 mining the block...
+device_7 - miner mines a block in 0.36818838119506836 seconds.
+miner device_7 is propagating its mined block to miner device_41.
+miner device_41 has accepted accepted a propagated block from miner device_7
+device_11 - miner 16/16 did not receive any transaction from validator or miner in this round.
+ Step 6 - miners decide if adding a propagated block or its own mined block as the legitimate block, and request its associated devices to download this block
+select winning block based on PoS
+Block accepted from miner device_36 mined by device_36 has been verified by device_45!
+Miner device_45 will add a propagated block mined by miner device_36 with stake 0.
+d_45 - m has appened a block to its chain. Chain length now - 1
+miner device_45 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_36 mined by device_36 has been verified by device_12!
+d_12 - w has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_36 mined by device_36 has been verified by device_14!
+d_14 - v has appened a block to its chain. Chain length now - 1
+device_44 - miner 2/16 does not receive a propagated block and has not mined its own block yet.
+device_42 - miner 3/16 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_32 mined by device_32 has been verified by device_32!
+Miner device_32 with stake 0 is adding its own mined block.
+d_32 - m has appened a block to its chain. Chain length now - 1
+miner device_32 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_32 mined by device_32 has been verified by device_13!
+d_13 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_32 mined by device_32 has been verified by device_24!
+d_24 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_32 mined by device_32 has been verified by device_40!
+d_40 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_32 mined by device_32 has been verified by device_43!
+d_43 - w has appened a block to its chain. Chain length now - 1
+select winning block based on PoS
+Block accepted from miner device_7 mined by device_7 has been verified by device_41!
+Miner device_41 will add a propagated block mined by miner device_7 with stake 0.
+d_41 - m has appened a block to its chain. Chain length now - 1
+miner device_41 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_7 mined by device_7 has been verified by device_30!
+d_30 - w has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_7 mined by device_7 has been verified by device_48!
+d_48 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_7 mined by device_7 has been verified by device_46!
+d_46 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_7 mined by device_7 has been verified by device_50!
+d_50 - w has appened a block to its chain. Chain length now - 1
+device_37 - miner 6/16 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_45 mined by device_45 has been verified by device_36!
+Miner device_36 will add a propagated block mined by miner device_45 with stake 0.
+d_36 - m has appened a block to its chain. Chain length now - 1
+miner device_36 is requesting its associated devices to download the block it just added to its chain
+select winning block based on PoS
+Block accepted from miner device_18 mined by device_18 has been verified by device_18!
+Miner device_18 with stake 0 is adding its own mined block.
+d_18 - m has appened a block to its chain. Chain length now - 1
+miner device_18 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_18 mined by device_18 has been verified by device_28!
+d_28 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_18 mined by device_18 has been verified by device_39!
+d_39 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_18 mined by device_18 has been verified by device_47!
+d_47 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_18 mined by device_18 has been verified by device_16!
+d_16 - v has appened a block to its chain. Chain length now - 1
+device_49 - miner 9/16 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_15 mined by device_15 has been verified by device_17!
+Miner device_17 will add a propagated block mined by miner device_15 with stake 0.
+d_17 - m has appened a block to its chain. Chain length now - 1
+miner device_17 is requesting its associated devices to download the block it just added to its chain
+select winning block based on PoS
+Block accepted from miner device_17 mined by device_17 has been verified by device_15!
+Miner device_15 will add a propagated block mined by miner device_17 with stake 0.
+d_15 - m has appened a block to its chain. Chain length now - 1
+miner device_15 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_17 mined by device_17 has been verified by device_29!
+d_29 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_17 mined by device_17 has been verified by device_19!
+d_19 - w has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_17 mined by device_17 has been verified by device_22!
+d_22 - w has appened a block to its chain. Chain length now - 1
+select winning block based on PoS
+Block accepted from miner device_41 mined by device_41 has been verified by device_10!
+Miner device_10 will add a propagated block mined by miner device_41 with stake 0.
+d_10 - m has appened a block to its chain. Chain length now - 1
+miner device_10 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_41 mined by device_41 has been verified by device_33!
+d_33 - w has appened a block to its chain. Chain length now - 1
+select winning block based on PoS
+Block accepted from miner device_45 mined by device_45 has been verified by device_38!
+Miner device_38 will add a propagated block mined by miner device_45 with stake 0.
+d_38 - m has appened a block to its chain. Chain length now - 1
+miner device_38 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_45 mined by device_45 has been verified by device_9!
+d_9 - v has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_45 mined by device_45 has been verified by device_35!
+d_35 - v has appened a block to its chain. Chain length now - 1
+device_5 - miner 14/16 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_41 mined by device_41 has been verified by device_7!
+Miner device_7 will add a propagated block mined by miner device_41 with stake 0.
+d_7 - m has appened a block to its chain. Chain length now - 1
+miner device_7 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_41 mined by device_41 has been verified by device_21!
+d_21 - v has appened a block to its chain. Chain length now - 1
+device_11 - miner 16/16 does not receive a propagated block and has not mined its own block yet.
+miner device_7 has added a block mined by device_41
+validator device_16 has added a block mined by device_18
+validator device_24 has added a block mined by device_32
+worker device_43 has added a block mined by device_32
+miner device_45 has added a block mined by device_36
+validator device_40 has added a block mined by device_32
+validator device_21 has added a block mined by device_41
+validator device_13 has added a block mined by device_32
+miner device_36 has added a block mined by device_45
+worker device_19 has added a block mined by device_17
+worker device_22 has added a block mined by device_17
+validator device_48 has added a block mined by device_7
+worker device_12 has added a block mined by device_36
+validator device_14 has added a block mined by device_36
+worker device_33 has added a block mined by device_41
+miner device_17 has added a block mined by device_15
+validator device_39 has added a block mined by device_18
+validator device_29 has added a block mined by device_17
+validator device_28 has added a block mined by device_18
+validator device_9 has added a block mined by device_45
+validator device_46 has added a block mined by device_7
+worker device_50 has added a block mined by device_7
+validator device_47 has added a block mined by device_18
+validator device_35 has added a block mined by device_45
+miner device_10 has added a block mined by device_41
+miner device_32 has added a block mined by device_32
+miner device_18 has added a block mined by device_18
+worker device_30 has added a block mined by device_7
+miner device_15 has added a block mined by device_17
+miner device_38 has added a block mined by device_45
+miner device_41 has added a block mined by device_7
+WARNING: a forking event just happened!
+ Step 6 last step - process the added block - 1.collect usable updated params
+ 2.malicious nodes identification
+ 3.get rewards
+ 4.do local udpates
+ This code block is skipped if no valid block was generated in this round
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+miner device_7 has received total 0 rewards for this comm round.
+global updates done by device_7
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+validator device_16 has received total 1 rewards for this comm round.
+global updates done by device_16
+A transaction recorded by miner device_32 in the block is verified!
+A transaction recorded by miner device_32 in the block is verified!
+validator device_24 has received total 0 rewards for this comm round.
+global updates done by device_24
+A transaction recorded by miner device_32 in the block is verified!
+A transaction recorded by miner device_32 in the block is verified!
+worker device_43 has received total 6000 rewards for this comm round.
+global updates done by device_43
+A transaction recorded by miner device_36 in the block is verified!
+miner device_45 has received total 0 rewards for this comm round.
+global updates done by device_45
+A transaction recorded by miner device_32 in the block is verified!
+A transaction recorded by miner device_32 in the block is verified!
+validator device_40 has received total 0 rewards for this comm round.
+global updates done by device_40
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+validator device_21 has received total 3 rewards for this comm round.
+global updates done by device_21
+A transaction recorded by miner device_32 in the block is verified!
+A transaction recorded by miner device_32 in the block is verified!
+validator device_13 has received total 2 rewards for this comm round.
+global updates done by device_13
+A transaction recorded by miner device_45 in the block is verified!
+miner device_36 has received total 0 rewards for this comm round.
+global updates done by device_36
+A transaction recorded by miner device_17 in the block is verified!
+worker device_19 has received total 6000 rewards for this comm round.
+global updates done by device_19
+A transaction recorded by miner device_17 in the block is verified!
+worker device_22 has received total 0 rewards for this comm round.
+global updates done by device_22
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+validator device_48 has received total 0 rewards for this comm round.
+global updates done by device_48
+A transaction recorded by miner device_36 in the block is verified!
+worker device_12 has received total 6000 rewards for this comm round.
+global updates done by device_12
+A transaction recorded by miner device_36 in the block is verified!
+validator device_14 has received total 1 rewards for this comm round.
+global updates done by device_14
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+worker device_33 has received total 0 rewards for this comm round.
+global updates done by device_33
+A transaction recorded by miner device_15 in the block is verified!
+miner device_17 has received total 0 rewards for this comm round.
+global updates done by device_17
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+validator device_39 has received total 5 rewards for this comm round.
+global updates done by device_39
+A transaction recorded by miner device_17 in the block is verified!
+validator device_29 has received total 1 rewards for this comm round.
+global updates done by device_29
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+validator device_28 has received total 3 rewards for this comm round.
+global updates done by device_28
+A transaction recorded by miner device_45 in the block is verified!
+validator device_9 has received total 0 rewards for this comm round.
+global updates done by device_9
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+validator device_46 has received total 0 rewards for this comm round.
+global updates done by device_46
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+worker device_50 has received total 0 rewards for this comm round.
+global updates done by device_50
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+validator device_47 has received total 1 rewards for this comm round.
+global updates done by device_47
+A transaction recorded by miner device_45 in the block is verified!
+validator device_35 has received total 0 rewards for this comm round.
+global updates done by device_35
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+A transaction recorded by miner device_41 in the block is verified!
+miner device_10 has received total 0 rewards for this comm round.
+global updates done by device_10
+A transaction recorded by miner device_32 in the block is verified!
+A transaction recorded by miner device_32 in the block is verified!
+miner device_32 has received total 3 rewards for this comm round.
+global updates done by device_32
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+A transaction recorded by miner device_18 in the block is verified!
+miner device_18 has received total 11 rewards for this comm round.
+global updates done by device_18
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+worker device_30 has received total 6000 rewards for this comm round.
+global updates done by device_30
+A transaction recorded by miner device_17 in the block is verified!
+miner device_15 has received total 0 rewards for this comm round.
+global updates done by device_15
+A transaction recorded by miner device_45 in the block is verified!
+miner device_38 has received total 0 rewards for this comm round.
+global updates done by device_38
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+A transaction recorded by miner device_7 in the block is verified!
+miner device_41 has received total 0 rewards for this comm round.
+global updates done by device_41
+ Logging Accuracies by Devices 
+ Logging Stake by Devices 
+
+Communication round 2
+device_6 worker online - chain length 0
+device_45 miner online - chain length 1
+device_4 validator online - chain length 0
+device_31 worker online - chain length 0
+device_22 worker online - chain length 1
+device_36 miner online - chain length 1
+device_50 validator online - chain length 1
+device_42 worker online - chain length 0
+device_14 validator online - chain length 1
+device_28 worker online - chain length 1
+device_18 miner online - chain length 1
+device_5 worker online - chain length 0
+device_11 miner online - chain length 0
+device_43 worker online - chain length 1
+device_12 validator online - chain length 1
+device_19 worker online - chain length 1
+device_10 worker online - chain length 1
+device_27 miner online - chain length 0
+device_32 validator online - chain length 1
+device_49 miner online - chain length 0
+device_39 worker online - chain length 1
+device_2 worker online - chain length 0
+device_17 worker online - chain length 1
+device_34 miner online - chain length 0
+device_46 miner online - chain length 1
+device_47 validator online - chain length 1
+device_1 worker online - chain length 0
+device_16 worker online - chain length 1
+device_9 worker online - chain length 1
+device_33 miner online - chain length 1
+device_8 validator online - chain length 0
+device_37 worker online - chain length 0
+device_26 miner online - chain length 0
+device_20 worker online - chain length 0
+device_15 validator online - chain length 1
+device_21 worker online - chain length 1
+device_35 validator online - chain length 1
+device_24 miner online - chain length 1
+device_25 worker online - chain length 0
+device_44 miner online - chain length 0
+device_41 validator online - chain length 1
+device_3 worker online - chain length 0
+device_29 validator online - chain length 1
+device_23 worker online - chain length 0
+device_13 worker online - chain length 1
+device_38 validator online - chain length 1
+device_48 worker online - chain length 1
+device_7 miner online - chain length 1
+device_40 miner online - chain length 1
+device_30 worker online - chain length 1
+
+There are 24 workers, 14 miners and 12 validators in this round.
+
+workers this round are
+d_6 online - True with chain len 0
+d_31 online - True with chain len 0
+d_22 online - True with chain len 1
+d_42 online - True with chain len 0
+d_28 online - True with chain len 1
+d_5 online - True with chain len 0
+d_43 online - True with chain len 1
+d_19 online - True with chain len 1
+d_10 online - True with chain len 1
+d_39 online - True with chain len 1
+d_2 online - True with chain len 0
+d_17 online - True with chain len 1
+d_1 online - True with chain len 0
+d_16 online - True with chain len 1
+d_9 online - True with chain len 1
+d_37 online - True with chain len 0
+d_20 online - True with chain len 0
+d_21 online - True with chain len 1
+d_25 online - True with chain len 0
+d_3 online - True with chain len 0
+d_23 online - True with chain len 0
+d_13 online - True with chain len 1
+d_48 online - True with chain len 1
+d_30 online - True with chain len 1
+
+miners this round are
+d_45 online - True with chain len 1
+d_36 online - True with chain len 1
+d_18 online - True with chain len 1
+d_11 online - True with chain len 0
+d_27 online - True with chain len 0
+d_49 online - True with chain len 0
+d_34 online - True with chain len 0
+d_46 online - True with chain len 1
+d_33 online - True with chain len 1
+d_26 online - True with chain len 0
+d_24 online - True with chain len 1
+d_44 online - True with chain len 0
+d_7 online - True with chain len 1
+d_40 online - True with chain len 1
+
+validators this round are
+d_4 online - True with chain len 0
+d_50 online - True with chain len 1
+d_14 online - True with chain len 1
+d_12 online - True with chain len 1
+d_32 online - True with chain len 1
+d_47 online - True with chain len 1
+d_8 online - True with chain len 0
+d_15 online - True with chain len 1
+d_35 online - True with chain len 1
+d_41 online - True with chain len 1
+d_29 online - True with chain len 1
+d_38 online - True with chain len 1
+
++++++++++ Round 2 Beginning Peer Lists +++++++++
+d_1 - w has peer list d_21 - w, d_27 - m, 
+d_2 - w has peer list d_23 - w, d_39 - w, 
+d_3 - w has peer list d_30 - w, d_11 - m, 
+d_4 - v has peer list d_49 - m, 
+d_5 - w has peer list d_20 - w, 
+d_6 - w has peer list d_39 - w, d_26 - m, d_2 - w, 
+d_7 - m has peer list d_41 - v, d_21 - w, d_46 - m, 
+d_8 - v has peer list d_1 - w, d_21 - w, 
+d_9 - w has peer list d_42 - w, d_38 - v, 
+d_10 - w has peer list d_33 - m, 
+d_11 - m has peer list d_30 - w, d_3 - w, 
+d_12 - v has peer list d_14 - v, d_45 - m, 
+d_13 - w has peer list d_31 - w, d_32 - v, d_43 - w, 
+d_14 - v has peer list d_12 - v, d_45 - m, 
+d_15 - v has peer list d_17 - w, d_19 - w, d_22 - w, 
+d_16 - w has peer list d_18 - m, 
+d_17 - w has peer list d_22 - w, d_15 - v, 
+d_18 - m has peer list d_20 - w, d_28 - w, d_16 - w, 
+d_19 - w has peer list d_22 - w, d_29 - v, d_17 - w, d_15 - v, 
+d_20 - w has peer list d_5 - w, d_16 - w, d_28 - w, d_47 - v, d_18 - m, 
+d_21 - w has peer list d_1 - w, d_8 - v, d_41 - v, d_30 - w, d_7 - m, 
+d_22 - w has peer list d_47 - v, d_15 - v, 
+d_23 - w has peer list d_39 - w, d_2 - w, 
+d_24 - m has peer list d_32 - v, d_40 - m, 
+d_25 - w has peer list d_31 - w, d_30 - w, d_3 - w, d_49 - m, 
+d_26 - m has peer list d_39 - w, d_6 - w, d_2 - w, 
+d_27 - m has peer list d_37 - w, d_1 - w, d_21 - w, d_44 - m, 
+d_28 - w has peer list d_18 - m, d_39 - w, d_44 - m, 
+d_29 - v has peer list d_15 - v, d_17 - w, d_19 - w, d_22 - w, 
+d_30 - w has peer list d_1 - w, d_41 - v, d_21 - w, d_3 - w, d_8 - v, d_7 - m, d_25 - w, 
+d_31 - w has peer list d_13 - w, d_30 - w, d_25 - w, d_3 - w, 
+d_32 - v has peer list d_13 - w, d_24 - m, d_31 - w, 
+d_33 - m has peer list d_10 - w, d_2 - w, d_50 - v, d_41 - v, d_6 - w, d_39 - w, 
+d_34 - m has peer list d_50 - v, 
+d_35 - v has peer list d_38 - v, d_9 - w, 
+d_36 - m has peer list d_12 - v, d_45 - m, 
+d_37 - w has peer list d_1 - w, d_21 - w, d_27 - m, 
+d_38 - v has peer list d_46 - m, d_9 - w, d_35 - v, d_45 - m, 
+d_39 - w has peer list d_18 - m, d_6 - w, d_44 - m, d_28 - w, d_33 - m, d_2 - w, 
+d_40 - m has peer list d_32 - v, d_24 - m, 
+d_41 - v has peer list d_10 - w, d_48 - w, d_6 - w, d_7 - m, d_39 - w, d_33 - m, d_2 - w, 
+d_42 - w has peer list d_38 - v, d_9 - w, 
+d_43 - w has peer list d_13 - w, d_32 - v, d_31 - w, 
+d_44 - m has peer list d_1 - w, d_21 - w, d_27 - m, d_37 - w, d_28 - w, 
+d_45 - m has peer list d_12 - v, d_38 - v, d_35 - v, d_9 - w, d_46 - m, d_36 - m, 
+d_46 - m has peer list d_38 - v, d_7 - m, d_21 - w, d_41 - v, 
+d_47 - v has peer list d_20 - w, d_5 - w, d_18 - m, d_16 - w, d_28 - w, d_22 - w, 
+d_48 - w has peer list d_10 - w, d_41 - v, d_6 - w, d_7 - m, d_39 - w, d_33 - m, d_2 - w, 
+d_49 - m has peer list d_4 - v, d_3 - w, d_31 - w, d_30 - w, d_25 - w, 
+d_50 - v has peer list d_10 - w, d_41 - v, d_34 - m, d_6 - w, d_39 - w, d_33 - m, d_2 - w, 
++++++++++ Round 2 Beginning Peer Lists +++++++++
+ Step 1 - workers assign associated miner and validator (and do local updates, but it is implemented in code block of step 2) 
+
+device_42 - worker 1/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_42 peer list.
+worker device_42 associated with validator device_38
+device_48 - worker 2/24 will associate with a validator and a miner, if online...
+worker device_48 associated with miner device_33
+worker device_48 associated with validator device_41
+device_21 - worker 3/24 will associate with a validator and a miner, if online...
+worker device_21 associated with miner device_7
+worker device_21 associated with validator device_8
+device_9 - worker 4/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_9 peer list.
+worker device_9 associated with validator device_38
+device_19 - worker 5/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_19 peer list.
+worker device_19 associated with validator device_15
+device_6 - worker 6/24 will associate with a validator and a miner, if online...
+worker device_6 associated with miner device_26
+Cannot find a qualified validator in device_6 peer list.
+device_43 - worker 7/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_43 peer list.
+worker device_43 associated with validator device_32
+device_16 - worker 8/24 will associate with a validator and a miner, if online...
+worker device_16 associated with miner device_18
+Cannot find a qualified validator in device_16 peer list.
+device_22 - worker 9/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_22 peer list.
+worker device_22 associated with validator device_15
+device_28 - worker 10/24 will associate with a validator and a miner, if online...
+worker device_28 associated with miner device_44
+Cannot find a qualified validator in device_28 peer list.
+device_37 - worker 11/24 will associate with a validator and a miner, if online...
+worker device_37 associated with miner device_27
+Cannot find a qualified validator in device_37 peer list.
+device_1 - worker 12/24 will associate with a validator and a miner, if online...
+worker device_1 associated with miner device_27
+Cannot find a qualified validator in device_1 peer list.
+device_13 - worker 13/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_13 peer list.
+worker device_13 associated with validator device_32
+device_23 - worker 14/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_23 peer list.
+Cannot find a qualified validator in device_23 peer list.
+device_39 - worker 15/24 will associate with a validator and a miner, if online...
+worker device_39 associated with miner device_18
+Cannot find a qualified validator in device_39 peer list.
+device_5 - worker 16/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_5 peer list.
+Cannot find a qualified validator in device_5 peer list.
+device_17 - worker 17/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_17 peer list.
+worker device_17 associated with validator device_15
+device_20 - worker 18/24 will associate with a validator and a miner, if online...
+worker device_20 associated with miner device_18
+worker device_20 associated with validator device_47
+device_3 - worker 19/24 will associate with a validator and a miner, if online...
+worker device_3 associated with miner device_11
+Cannot find a qualified validator in device_3 peer list.
+device_31 - worker 20/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_31 peer list.
+Cannot find a qualified validator in device_31 peer list.
+device_10 - worker 21/24 will associate with a validator and a miner, if online...
+worker device_10 associated with miner device_33
+Cannot find a qualified validator in device_10 peer list.
+device_2 - worker 22/24 will associate with a validator and a miner, if online...
+Cannot find a qualified miner in device_2 peer list.
+Cannot find a qualified validator in device_2 peer list.
+device_30 - worker 23/24 will associate with a validator and a miner, if online...
+worker device_30 associated with miner device_7
+worker device_30 associated with validator device_41
+device_25 - worker 24/24 will associate with a validator and a miner, if online...
+worker device_25 associated with miner device_49
+Cannot find a qualified validator in device_25 peer list.
+ Step 2 - validators accept local updates and broadcast to other validators in their respective peer lists (workers local_updates() are called in this step.
+
+Cannot find a qualified miner in validator device_35 peer list.
+No workers are associated with validator device_35 1/12 for this communication round.
+validator device_47 associated with miner device_18
+device_47 - validator 2/12 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_47 is doing local updates
+Worker device_20 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_47 has accepted this transaction.
+validator device_41 associated with miner device_7
+device_41 - validator 3/12 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_41 is doing local updates
+Worker device_30 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_41 has accepted this transaction.
+worker 2/2 of validator device_41 is doing local updates
+Worker device_48 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_41 has accepted this transaction.
+validator device_4 associated with miner device_49
+No workers are associated with validator device_4 4/12 for this communication round.
+validator device_38 associated with miner device_45
+device_38 - validator 5/12 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_38 is doing local updates
+Worker device_42 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_38 has accepted this transaction.
+worker 2/2 of validator device_38 is doing local updates
+Worker device_9 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_9 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_38 has accepted this transaction.
+validator device_38 is broadcasting received validator transactions to validator device_35.
+validator device_35 has accepted worker transactions from validator device_38
+validator device_38 has broadcasted 2 worker transactions to validator device_35.
+validator device_12 associated with miner device_45
+No workers are associated with validator device_12 6/12 for this communication round.
+validator device_14 associated with miner device_45
+No workers are associated with validator device_14 7/12 for this communication round.
+Cannot find a qualified miner in validator device_15 peer list.
+device_15 - validator 8/12 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/3 of validator device_15 is doing local updates
+Worker device_17 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_15 has accepted this transaction.
+worker 2/3 of validator device_15 is doing local updates
+Worker device_19 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_15 has accepted this transaction.
+worker 3/3 of validator device_15 is doing local updates
+Worker device_22 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_15 has accepted this transaction.
+Cannot find a qualified miner in validator device_8 peer list.
+device_8 - validator 9/12 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/1 of validator device_8 is doing local updates
+Worker device_21 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+malicious worker device_21 has added noise to its local updated weights before transmitting
+Done 5 epoch(s) and total 5 epochs
+validator device_8 has accepted this transaction.
+Cannot find a qualified miner in validator device_29 peer list.
+No workers are associated with validator device_29 10/12 for this communication round.
+validator device_32 associated with miner device_24
+device_32 - validator 11/12 is accepting workers' updates with link speed 70000.0 bytes/s, if online...
+worker 1/2 of validator device_32 is doing local updates
+Worker device_13 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_32 has accepted this transaction.
+worker 2/2 of validator device_32 is doing local updates
+Worker device_43 is doing local_update with computation power 1 and link speed 70000.0 bytes/s
+Done 5 epoch(s) and total 5 epochs
+validator device_32 has accepted this transaction.
+validator device_50 associated with miner device_34
+No workers are associated with validator device_50 12/12 for this communication round.
+ Step 2.5 - with the broadcasted workers transactions, validators decide the final transaction arrival order 
+
+device_35 - validator 1/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_35 - validator 1/12 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_47 - validator 2/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_47 2/12 did not receive any broadcasted worker transaction this round.
+device_47 - validator 2/12 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_41 - validator 3/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_41 3/12 did not receive any broadcasted worker transaction this round.
+device_41 - validator 3/12 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_4 - validator 4/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_4 4/12 did not receive any broadcasted worker transaction this round.
+device_4 - validator 4/12 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_38 - validator 5/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_38 5/12 did not receive any broadcasted worker transaction this round.
+device_38 - validator 5/12 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_12 - validator 6/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_12 6/12 did not receive any broadcasted worker transaction this round.
+device_12 - validator 6/12 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_14 - validator 7/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_14 7/12 did not receive any broadcasted worker transaction this round.
+device_14 - validator 7/12 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_15 - validator 8/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_15 8/12 did not receive any broadcasted worker transaction this round.
+device_15 - validator 8/12 done calculating the ordered final transactions arrival order. Total 3 accepted transactions.
+device_8 - validator 9/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_8 9/12 did not receive any broadcasted worker transaction this round.
+device_8 - validator 9/12 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_29 - validator 10/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_29 10/12 did not receive any broadcasted worker transaction this round.
+device_29 - validator 10/12 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_32 - validator 11/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_32 11/12 did not receive any broadcasted worker transaction this round.
+device_32 - validator 11/12 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_50 - validator 12/12 is calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+validator device_50 12/12 did not receive any broadcasted worker transaction this round.
+device_50 - validator 12/12 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+ Step 3 - validators do self and cross-validation(validate local updates from workers) by the order of transaction arrival time.
+
+validator device_35 is performing one epoch of local update and validation
+validator device_35 locally updated model has accuracy 0.7094999551773071 on its local test set
+device_35 - validator 1/12 is validating received worker transactions...
+Signature of transaction from worker device_42 is verified by validator device_35!
+validator updated model accuracy - 0.7094999551773071
+After applying worker's update, model accuracy becomes - 0.678899884223938
+worker device_42's' updates is deemed as GOOD by validator device_35
+A validation process has been done for the transaction from worker device_42 by validator device_35
+Signature of transaction from worker device_9 is verified by validator device_35!
+validator updated model accuracy - 0.7094999551773071
+After applying worker's update, model accuracy becomes - 0.20299994945526123
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_35
+A validation process has been done for the transaction from worker device_9 by validator device_35
+validator device_47 is performing one epoch of local update and validation
+validator device_47 locally updated model has accuracy 0.6646998524665833 on its local test set
+device_47 - validator 2/12 is validating received worker transactions...
+Signature of transaction from worker device_20 is verified by validator device_47!
+validator updated model accuracy - 0.6646998524665833
+After applying worker's update, model accuracy becomes - 0.7690998911857605
+worker device_20's' updates is deemed as GOOD by validator device_47
+A validation process has been done for the transaction from worker device_20 by validator device_47
+validator device_41 is performing one epoch of local update and validation
+validator device_41 locally updated model has accuracy 0.6793999075889587 on its local test set
+device_41 - validator 3/12 is validating received worker transactions...
+Signature of transaction from worker device_30 is verified by validator device_41!
+validator updated model accuracy - 0.6793999075889587
+After applying worker's update, model accuracy becomes - 0.754800021648407
+worker device_30's' updates is deemed as GOOD by validator device_41
+A validation process has been done for the transaction from worker device_30 by validator device_41
+Signature of transaction from worker device_48 is verified by validator device_41!
+validator updated model accuracy - 0.6793999075889587
+After applying worker's update, model accuracy becomes - 0.7560999393463135
+worker device_48's' updates is deemed as GOOD by validator device_41
+A validation process has been done for the transaction from worker device_48 by validator device_41
+device_4 - validator 4/12 did not receive any transaction from worker or validator in this round.
+validator device_38 is performing one epoch of local update and validation
+validator device_38 locally updated model has accuracy 0.7371999025344849 on its local test set
+device_38 - validator 5/12 is validating received worker transactions...
+Signature of transaction from worker device_42 is verified by validator device_38!
+validator updated model accuracy - 0.7371999025344849
+After applying worker's update, model accuracy becomes - 0.678899884223938
+NOTE: worker device_42's updates is deemed as suspiciously malicious by validator device_38
+Warning - device_42 is benign and this validation is wrong.
+A validation process has been done for the transaction from worker device_42 by validator device_38
+Signature of transaction from worker device_9 is verified by validator device_38!
+validator updated model accuracy - 0.7371999025344849
+After applying worker's update, model accuracy becomes - 0.20299994945526123
+NOTE: worker device_9's updates is deemed as suspiciously malicious by validator device_38
+A validation process has been done for the transaction from worker device_9 by validator device_38
+device_12 - validator 6/12 did not receive any transaction from worker or validator in this round.
+device_14 - validator 7/12 did not receive any transaction from worker or validator in this round.
+validator device_15 is performing one epoch of local update and validation
+validator device_15 locally updated model has accuracy 0.7349998950958252 on its local test set
+device_15 - validator 8/12 is validating received worker transactions...
+Signature of transaction from worker device_17 is verified by validator device_15!
+validator updated model accuracy - 0.7349998950958252
+After applying worker's update, model accuracy becomes - 0.7747997641563416
+worker device_17's' updates is deemed as GOOD by validator device_15
+A validation process has been done for the transaction from worker device_17 by validator device_15
+Signature of transaction from worker device_19 is verified by validator device_15!
+validator updated model accuracy - 0.7349998950958252
+After applying worker's update, model accuracy becomes - 0.7567998170852661
+worker device_19's' updates is deemed as GOOD by validator device_15
+A validation process has been done for the transaction from worker device_19 by validator device_15
+Signature of transaction from worker device_22 is verified by validator device_15!
+validator updated model accuracy - 0.7349998950958252
+After applying worker's update, model accuracy becomes - 0.7548999786376953
+worker device_22's' updates is deemed as GOOD by validator device_15
+A validation process has been done for the transaction from worker device_22 by validator device_15
+validator device_8 is performing one epoch of local update and validation
+validator device_8 locally updated model has accuracy 0.7465000152587891 on its local test set
+device_8 - validator 9/12 is validating received worker transactions...
+Signature of transaction from worker device_21 is verified by validator device_8!
+validator updated model accuracy - 0.7465000152587891
+After applying worker's update, model accuracy becomes - 0.13950000703334808
+NOTE: worker device_21's updates is deemed as suspiciously malicious by validator device_8
+A validation process has been done for the transaction from worker device_21 by validator device_8
+device_29 - validator 10/12 did not receive any transaction from worker or validator in this round.
+validator device_32 is performing one epoch of local update and validation
+validator device_32 locally updated model has accuracy 0.718299925327301 on its local test set
+device_32 - validator 11/12 is validating received worker transactions...
+Signature of transaction from worker device_13 is verified by validator device_32!
+validator updated model accuracy - 0.718299925327301
+After applying worker's update, model accuracy becomes - 0.7748998999595642
+worker device_13's' updates is deemed as GOOD by validator device_32
+A validation process has been done for the transaction from worker device_13 by validator device_32
+Signature of transaction from worker device_43 is verified by validator device_32!
+validator updated model accuracy - 0.718299925327301
+After applying worker's update, model accuracy becomes - 0.7665000557899475
+worker device_43's' updates is deemed as GOOD by validator device_32
+A validation process has been done for the transaction from worker device_43 by validator device_32
+device_50 - validator 12/12 did not receive any transaction from worker or validator in this round.
+ Step 4 - validators send post validation transactions to associated miner and miner broadcasts these to other miners in their respecitve peer lists
+
+device_11 - miner 1/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_11 for this communication round.
+device_7 - miner 2/14 accepting validators' post-validation transactions...
+device_41 - validator 1/1 of miner device_7 is sending signature verified transaction...
+miner device_7 has accepted 1/2 post-validation transaction from validator device_41
+miner device_7 has accepted 2/2 post-validation transaction from validator device_41
+miner device_7 is broadcasting received validator transactions to miner device_46.
+miner device_46 has accepted validator transactions from miner device_7
+miner device_7 has broadcasted 2 validator transactions to miner device_46.
+device_34 - miner 3/14 accepting validators' post-validation transactions...
+device_50 - validator 1/1 of miner device_34 is sending signature verified transaction...
+device_27 - miner 4/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_27 for this communication round.
+device_36 - miner 5/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_36 for this communication round.
+device_40 - miner 6/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_40 for this communication round.
+device_24 - miner 7/14 accepting validators' post-validation transactions...
+device_32 - validator 1/1 of miner device_24 is sending signature verified transaction...
+miner device_24 has accepted 1/2 post-validation transaction from validator device_32
+miner device_24 has accepted 2/2 post-validation transaction from validator device_32
+miner device_24 is broadcasting received validator transactions to miner device_40.
+miner device_40 has accepted validator transactions from miner device_24
+miner device_24 has broadcasted 2 validator transactions to miner device_40.
+device_26 - miner 8/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_26 for this communication round.
+device_18 - miner 9/14 accepting validators' post-validation transactions...
+device_47 - validator 1/1 of miner device_18 is sending signature verified transaction...
+miner device_18 has accepted 1/1 post-validation transaction from validator device_47
+device_33 - miner 10/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_33 for this communication round.
+device_44 - miner 11/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_44 for this communication round.
+device_46 - miner 12/14 accepting validators' post-validation transactions...
+No validators are associated with miner device_46 for this communication round.
+device_49 - miner 13/14 accepting validators' post-validation transactions...
+device_4 - validator 1/1 of miner device_49 is sending signature verified transaction...
+device_45 - miner 14/14 accepting validators' post-validation transactions...
+device_12 - validator 1/3 of miner device_45 is sending signature verified transaction...
+device_38 - validator 2/3 of miner device_45 is sending signature verified transaction...
+miner device_45 has accepted 1/2 post-validation transaction from validator device_38
+miner device_45 has accepted 2/2 post-validation transaction from validator device_38
+device_14 - validator 3/3 of miner device_45 is sending signature verified transaction...
+miner device_45 is broadcasting received validator transactions to miner device_46.
+miner device_46 has accepted validator transactions from miner device_45
+miner device_45 has broadcasted 2 validator transactions to miner device_46.
+miner device_45 is broadcasting received validator transactions to miner device_36.
+miner device_36 has accepted validator transactions from miner device_45
+miner device_45 has broadcasted 2 validator transactions to miner device_36.
+ Step 4.5 - with the broadcasted validator transactions, miners decide the final transaction arrival order
+ 
+device_11 - miner 1/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_11 1/14 did not receive any broadcasted validator transaction this round.
+device_11 - miner 1/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_7 - miner 2/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_7 2/14 did not receive any broadcasted validator transaction this round.
+device_7 - miner 2/14 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_34 - miner 3/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_34 3/14 did not receive any broadcasted validator transaction this round.
+device_34 - miner 3/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_27 - miner 4/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_27 4/14 did not receive any broadcasted validator transaction this round.
+device_27 - miner 4/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_36 - miner 5/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_36 - miner 5/14 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_40 - miner 6/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_40 - miner 6/14 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_24 - miner 7/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_24 7/14 did not receive any broadcasted validator transaction this round.
+device_24 - miner 7/14 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+device_26 - miner 8/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_26 8/14 did not receive any broadcasted validator transaction this round.
+device_26 - miner 8/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_18 - miner 9/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_18 9/14 did not receive any broadcasted validator transaction this round.
+device_18 - miner 9/14 done calculating the ordered final transactions arrival order. Total 1 accepted transactions.
+device_33 - miner 10/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_33 10/14 did not receive any broadcasted validator transaction this round.
+device_33 - miner 10/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_44 - miner 11/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_44 11/14 did not receive any broadcasted validator transaction this round.
+device_44 - miner 11/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_46 - miner 12/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+device_46 - miner 12/14 done calculating the ordered final transactions arrival order. Total 4 accepted transactions.
+device_49 - miner 13/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_49 13/14 did not receive any broadcasted validator transaction this round.
+device_49 - miner 13/14 done calculating the ordered final transactions arrival order. Total 0 accepted transactions.
+device_45 - miner 14/14 calculating the final transactions arrival order by combining the direct worker transactions received and received broadcasted transactions...
+miner device_45 14/14 did not receive any broadcasted validator transaction this round.
+device_45 - miner 14/14 done calculating the ordered final transactions arrival order. Total 2 accepted transactions.
+ Step 5 - miners do self and cross-verification (verify validators' signature) by the order of transaction arrival time and record the transactions in the candidate block according to the limit size. Also mine and propagate the block.
+
+device_11 - miner 1/14 did not receive any transaction from validator or miner in this round.
+device_7 - miner 2/14 is verifying received validator transactions...
+Signature of transaction from validator device_41 is verified by miner device_7!
+Signature of transaction from validator device_41 is verified by miner device_7!
+device_7 - miner 2/14 mining the block...
+device_7 - miner mines a block in 0.2321763038635254 seconds.
+miner device_7 is propagating its mined block to miner device_46.
+miner device_46 has accepted accepted a propagated block from miner device_7
+device_34 - miner 3/14 did not receive any transaction from validator or miner in this round.
+device_27 - miner 4/14 did not receive any transaction from validator or miner in this round.
+device_36 - miner 5/14 is verifying received validator transactions...
+Signature of transaction from validator device_38 is verified by miner device_36!
+Signature of transaction from validator device_38 is verified by miner device_36!
+device_36 - miner 5/14 mining the block...
+device_36 - miner mines a block in 0.23383402824401855 seconds.
+miner device_36 is propagating its mined block to miner device_45.
+miner device_45 has accepted accepted a propagated block from miner device_36
+device_40 - miner 6/14 is verifying received validator transactions...
+Signature of transaction from validator device_32 is verified by miner device_40!
+Signature of transaction from validator device_32 is verified by miner device_40!
+device_40 - miner 6/14 mining the block...
+device_40 - miner mines a block in 0.24269723892211914 seconds.
+miner device_40 is propagating its mined block to miner device_24.
+miner device_24 has accepted accepted a propagated block from miner device_40
+device_24 - miner 7/14 is verifying received validator transactions...
+Signature of transaction from validator device_32 is verified by miner device_24!
+Signature of transaction from validator device_32 is verified by miner device_24!
+device_24 - miner 7/14 mining the block...
+device_24 - miner mines a block in 0.24488186836242676 seconds.
+miner device_24 is propagating its mined block to miner device_40.
+miner device_40 has accepted accepted a propagated block from miner device_24
+device_26 - miner 8/14 did not receive any transaction from validator or miner in this round.
+device_18 - miner 9/14 is verifying received validator transactions...
+Signature of transaction from validator device_47 is verified by miner device_18!
+device_18 - miner 9/14 mining the block...
+device_18 - miner mines a block in 0.13089799880981445 seconds.
+device_33 - miner 10/14 did not receive any transaction from validator or miner in this round.
+device_44 - miner 11/14 did not receive any transaction from validator or miner in this round.
+device_46 - miner 12/14 is verifying received validator transactions...
+Signature of transaction from validator device_41 is verified by miner device_46!
+Signature of transaction from validator device_41 is verified by miner device_46!
+Signature of transaction from validator device_38 is verified by miner device_46!
+Signature of transaction from validator device_38 is verified by miner device_46!
+device_46 - miner 12/14 mining the block...
+device_46 - miner mines a block in 0.5801410675048828 seconds.
+miner device_46 is propagating its mined block to miner device_7.
+miner device_7 has accepted accepted a propagated block from miner device_46
+device_49 - miner 13/14 did not receive any transaction from validator or miner in this round.
+device_45 - miner 14/14 is verifying received validator transactions...
+Signature of transaction from validator device_38 is verified by miner device_45!
+Signature of transaction from validator device_38 is verified by miner device_45!
+device_45 - miner 14/14 mining the block...
+device_45 - miner mines a block in 0.3621256351470947 seconds.
+miner device_45 is propagating its mined block to miner device_46.
+miner device_46 has accepted accepted a propagated block from miner device_45
+miner device_45 is propagating its mined block to miner device_36.
+miner device_36 has accepted accepted a propagated block from miner device_45
+ Step 6 - miners decide if adding a propagated block or its own mined block as the legitimate block, and request its associated devices to download this block
+device_11 - miner 1/14 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_46 mined by device_46 has been verified by device_7!
+Miner device_7 will add a propagated block mined by miner device_46 with stake 0.
+d_7 - m has appened a block to its chain. Chain length now - 2
+miner device_7 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_46 mined by device_46 has been verified by device_30!
+d_30 - w has appened a block to its chain. Chain length now - 2
+Block accepted from miner device_46 mined by device_46 has been verified by device_41!
+d_41 - v has appened a block to its chain. Chain length now - 2
+Block accepted from miner device_46 mined by device_46 has been verified by device_21!
+d_21 - w has appened a block to its chain. Chain length now - 2
+device_34 - miner 3/14 does not receive a propagated block and has not mined its own block yet.
+device_27 - miner 4/14 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_45 mined by device_45 has been verified by device_36!
+Miner device_36 will add a propagated block mined by miner device_45 with stake 0.
+d_36 - m has appened a block to its chain. Chain length now - 2
+miner device_36 is requesting its associated devices to download the block it just added to its chain
+select winning block based on PoS
+Block accepted from miner device_24 mined by device_24 has been verified by device_40!
+Miner device_40 will add a propagated block mined by miner device_24 with stake 0.
+d_40 - m has appened a block to its chain. Chain length now - 2
+miner device_40 is requesting its associated devices to download the block it just added to its chain
+select winning block based on PoS
+Block accepted from miner device_40 mined by device_40 has been verified by device_24!
+Miner device_24 will add a propagated block mined by miner device_40 with stake 0.
+d_24 - m has appened a block to its chain. Chain length now - 2
+miner device_24 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_40 mined by device_40 has been verified by device_32!
+d_32 - v has appened a block to its chain. Chain length now - 2
+device_26 - miner 8/14 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_18 mined by device_18 has been verified by device_18!
+Miner device_18 with stake 11 is adding its own mined block.
+d_18 - m has appened a block to its chain. Chain length now - 2
+miner device_18 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_18 mined by device_18 has been verified by device_20!
+d_20 - w has appened a block to its chain. Chain length now - 1
+Block accepted from miner device_18 mined by device_18 has been verified by device_39!
+d_39 - w has appened a block to its chain. Chain length now - 2
+Block accepted from miner device_18 mined by device_18 has been verified by device_47!
+d_47 - v has appened a block to its chain. Chain length now - 2
+Block accepted from miner device_18 mined by device_18 has been verified by device_16!
+d_16 - w has appened a block to its chain. Chain length now - 2
+device_33 - miner 10/14 does not receive a propagated block and has not mined its own block yet.
+device_44 - miner 11/14 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_45 mined by device_45 has been verified by device_46!
+Miner device_46 will add a propagated block mined by miner device_45 with stake 0.
+d_46 - m has appened a block to its chain. Chain length now - 2
+miner device_46 is requesting its associated devices to download the block it just added to its chain
+device_49 - miner 13/14 does not receive a propagated block and has not mined its own block yet.
+select winning block based on PoS
+Block accepted from miner device_36 mined by device_36 has been verified by device_45!
+Miner device_45 will add a propagated block mined by miner device_36 with stake 0.
+d_45 - m has appened a block to its chain. Chain length now - 2
+miner device_45 is requesting its associated devices to download the block it just added to its chain
+Block accepted from miner device_36 mined by device_36 has been verified by device_12!
+d_12 - v has appened a block to its chain. Chain length now - 2
+Block accepted from miner device_36 mined by device_36 has been verified by device_38!
+d_38 - v has appened a block to its chain. Chain length now - 2
+Block accepted from miner device_36 mined by device_36 has been verified by device_14!
+d_14 - v has appened a block to its chain. Chain length now - 2
+miner device_45 has added a block mined by device_36
+miner device_36 has added a block mined by device_45
+validator device_14 has added a block mined by device_36
+miner device_18 has added a block mined by device_18
+validator device_12 has added a block mined by device_36
+validator device_32 has added a block mined by device_40
+worker device_39 has added a block mined by device_18
+miner device_46 has added a block mined by device_45
+validator device_47 has added a block mined by device_18
+worker device_16 has added a block mined by device_18
+worker device_20 has added a block mined by device_18
+worker device_21 has added a block mined by device_46
+miner device_24 has added a block mined by device_40
+validator device_41 has added a block mined by device_46
+validator device_38 has added a block mined by device_36
+miner device_7 has added a block mined by device_46
+miner device_40 has added a block mined by device_24
+worker device_30 has added a block mined by device_46
+WARNING: a forking event just happened!
+ Step 6 last step - process the added block - 1.collect usable updated params
+ 2.malicious nodes identification
+ 3.get rewards
+ 4.do local udpates
+ This code block is skipped if no valid block was generated in this round
+A transaction recorded by miner device_36 in the block is verified!
+A transaction recorded by miner device_36 in the block is verified!
+miner device_45 has received total 0 rewards for this comm round.
+There are no available local params for device_45 to perform global updates in this comm round.

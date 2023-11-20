@@ -1,0 +1,24 @@
+output_pure2_iid1.txt
+output_pure2_iid0.txt
+output_blockchain2_iid1.txt
+output_blockchain2_iid0.txt
+output_malicious2_iid1.txt
+output_malicious2_iid0.txt
+
+output_pure5_iid1.txt
+output_pure5_iid0.txt
+output_blockchain5_iid1.txt
+output_blockchain5_iid0.txt
+output_malicious5_iid1.txt
+output_malicious5_iid0.txt
+
+# Run the VBFL simulation for Pure Model
+!timeout {time_limit} python main.py -nd 50 -max_ncomm 100 -ha *,*,* -aio 0 -pow 0 -ko 6 -nm 0 -vh 0.08 -cs 0 -B 10 -mn mnist_cnn -iid 1 -lr 0.02 -dtx 1 > {output_file}
+
+# Run the VBFL simulation for Blockchain Model
+!timeout {time_limit}s python main.py -nd 50 -max_ncomm 100 -ha *,*,* -aio 1 -pow 0 -ko 6 -nm 3 -vh 0.15 -cs 0 -B 10 -mn mnist_cnn -iid 1 -lr 0.005 -dtx 1 > {output_file}
+
+# Run the VBFL simulation for Malicious Model
+!timeout {time_limit} python main.py -nd 50 -max_ncomm 100 -ha *,*,* -aio 0 -pow 0 -ko 6 -nm 15 -vh 0.05 -cs 0 -B 10 -mn mnist_cnn -iid 1 -lr 0.02 -dtx 1 > {output_file}
+
+{value}
